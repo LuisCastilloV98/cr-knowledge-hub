@@ -13,6 +13,7 @@ export type CarouselProps = {
   height?: number | string;
   auto?: boolean;
   showDots?: boolean;
+  objectPosition?: string;
 };
 
 const Carousel: FC<CarouselProps> = ({
@@ -21,6 +22,7 @@ const Carousel: FC<CarouselProps> = ({
   height = "var(--carousel-h, 320px)", // responsive via CSS var
   auto = true,
   showDots = true,
+  objectPosition = "center",
 }) => {
   const swiperRef = useRef<SwiperType | null>(null);
   if (!images?.length) return null;
@@ -48,7 +50,7 @@ const Carousel: FC<CarouselProps> = ({
               alt={`Slide ${idx + 1} of ${images.length}`}
               loading="lazy"
               decoding="async"
-              style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }}
+              style={{ width: "100%", height: "100%", objectFit: "cover", objectPosition, display: "block" }}
             />
           </SwiperSlide>
         ))}
