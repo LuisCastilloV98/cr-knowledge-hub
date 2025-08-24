@@ -38,7 +38,9 @@
         "/images/national-parks/alberto-manuel-brenes-3.jpg",
         "/images/national-parks/alberto-manuel-brenes-4.jpg"
       ],
-      "sources": [":contentReference[oaicite:0]{index=0}"]
+      "sources": [
+        ":contentReference[oaicite:0]{index=0}"
+      ]
     },
     {
       "title": "Arenal Volcano National Park",
@@ -70,7 +72,7 @@
         "/images/national-parks/arenal-volcano-2.jpeg",
         "/images/national-parks/arenal-volcano-3.webp",
         "/images/national-parks/arenal-volcano-4.jpg"
-        ]
+      ]
     },
     {
       "title": "Braulio Carrillo National Park",
@@ -167,7 +169,7 @@
         "/images/national-parks/carara-2.webp",
         "/images/national-parks/carara-3.jpg",
         "/images/national-parks/carara-4.jpg"
-        ]
+      ]
     },
     {
       "title": "Chirripó National Park",
@@ -268,7 +270,7 @@
         "/images/national-parks/grecia-forest-3.jpg",
         "/images/national-parks/grecia-forest-4.jpg",
         "/images/national-parks/grecia-forest-5.jpg"
-        ]
+      ]
     },
     {
       "title": "Guayabo National Monument",
@@ -332,7 +334,7 @@
         "/images/national-parks/irazu-volcano.jpg",
         "/images/national-parks/irazu-volcano-2.jpg",
         "/images/national-parks/irazu-volcano-3.webp",
-        "/images/national-parks/irazu-volcano-4.JPG",        
+        "/images/national-parks/irazu-volcano-4.JPG",
         "/images/national-parks/irazu-volcano-5.jpg"
       ]
     },
@@ -368,7 +370,7 @@
         "/images/national-parks/la-cangreja-4.jpg",
         "/images/national-parks/la-cangreja-5.jpg",
         "/images/national-parks/la-cangreja-6.jpeg"
-        ]
+      ]
     },
     {
       "title": "Los Quetzales National Park",
@@ -401,7 +403,7 @@
         "/images/national-parks/los-quetzales-3.jpeg",
         "/images/national-parks/los-quetzales-4.jpg",
         "/images/national-parks/los-quetzales-5.jpg"
-        ]
+      ]
     },
     {
       "title": "Manuel Antonio National Park",
@@ -429,13 +431,13 @@
         }
       ],
       "images": [
-            "/images/national-parks/anuel-antonio.jpg",
-            "/images/national-parks/anuel-antonio-2.jpg",
-            "/images/national-parks/anuel-antonio-3.jpg",
-            "/images/national-parks/anuel-antonio-4.jpg",
-            "/images/national-parks/anuel-antonio-5.jpg",
-            "/images/national-parks/anuel-antonio-6.jpg"
-        ]
+        "/images/national-parks/anuel-antonio.jpg",
+        "/images/national-parks/anuel-antonio-2.jpg",
+        "/images/national-parks/anuel-antonio-3.jpg",
+        "/images/national-parks/anuel-antonio-4.jpg",
+        "/images/national-parks/anuel-antonio-5.jpg",
+        "/images/national-parks/anuel-antonio-6.jpg"
+      ]
     },
     {
       "title": "Marino Ballena National Park",
@@ -469,7 +471,7 @@
         "/images/national-parks/marino-ballena-4.webp",
         "/images/national-parks/marino-ballena-5.webp",
         "/images/national-parks/marino-ballena-6.webp"
-        ]
+      ]
     },
     {
       "title": "Poás Volcano National Park",
@@ -641,7 +643,7 @@
         "/images/national-parks/tortuguero-4.jpg",
         "/images/national-parks/tortuguero-5.jpg",
         "/images/national-parks/tortuguero-6.webp"
-        ]
+      ]
     },
     {
       "title": "Turrialba Volcano National Park",

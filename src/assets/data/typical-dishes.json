@@ -1,0 +1,442 @@
+{
+  "slug": "typical-dishes",
+  "title": "Traditional Dishes of Costa Rica",
+  "emoji": "🍽️",
+  "shortDescription": "A flavorful journey through Costa Rica’s most traditional dishes.",
+  "longDescription": "Costa Rican cuisine is a tapestry of Indigenous, Spanish, Afro-Caribbean, and mestizo influences, built on fresh, wholesome ingredients like corn, beans, plantains, and a diversity of native fruits and vegetables. From hearty stews and rice-and-bean breakfasts to refreshing seafood and unique sweets, these dishes are the essence of Costa Rican culinary identity, served in homes, sodas, and festivals alike.",
+  "cardImage": "/images/typical-dishes/card-placeholder.jpg",
+  "wideImage": "/images/typical-dishes/placeholder.jpg",
+  "items": [
+    {
+      "title": "Gallo Pinto",
+      "emoji": "🍚",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Rice and beans (black or red) stir-fried with onions, bell pepper, cilantro and often seasoned with Salsa Lizano—Costa Rica’s quintessential breakfast dish."
+        },
+        {
+          "heading": "History",
+          "content": "A national emblem with Afro-Caribbean and colonial roots, widely embraced across the country."
+        },
+        {
+          "heading": "Serving & Pairings",
+          "content": "Usually served with eggs, tortillla or bread, plantains, natilla, and coffee."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Try the Central Valley version with Salsa Lizano or the Caribbean style with coconut milk and red beans."
+        }
+      ],
+      "images": [
+        "/images/typical-dishes/gallo-pinto-1.jpeg",
+        "/images/typical-dishes/gallo-pinto-2.jpg"
+      ]
+    },
+    {
+      "title": "Casado",
+      "emoji": "🍛",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "A full plate meal composed of rice, beans, plantains, salad, and a choice of protein (fish, chicken, beef, or pork)."
+        },
+        {
+          "heading": "History",
+          "content": "Its name, meaning “married,” reflects the traditional pairing of ingredients in a single plate. Common lunchtime fare."
+        },
+        {
+          "heading": "Serving & Pairings",
+          "content": "Found in sodas and homes across the country—nutritious, affordable, and hearty."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Try versions with fish or vegetarian protein for variation."
+        }
+      ],
+      "images": [
+        "/images/typical-dishes/casado-1.jpg",
+        "/images/typical-dishes/casado-2.jpg"
+      ]
+    },
+    {
+      "title": "Arroz con Pollo",
+      "emoji": "🍗",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Fragrant yellow rice cooked with shredded chicken and vegetables like peas, carrots, and corn, often colored with annatto."
+        },
+        {
+          "heading": "History",
+          "content": "A festive and family-style dish, essential at celebrations."
+        },
+        {
+          "heading": "Serving & Pairings",
+          "content": "Served with Russian salad, green salad, or fries."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Great for gatherings; find seafood or veggie versions in some areas."
+        }
+      ],
+      "images": [
+        "/images/typical-dishes/rice-chicken.png",
+        "/images/typical-dishes/rice-chicken-2.jpg"	
+      ]
+    },
+    {
+      "title": "Olla de Carne",
+      "emoji": "🥘",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Slow-cooked beef stew with yuca, potato, chayote, corn, plantains and other root vegetables."
+        },
+        {
+          "heading": "History",
+          "content": "Derived from Spanish ‘olla podrida,’ adapted to local ingredients; traditionally a weekend meal."
+        },
+        {
+          "heading": "Serving & Pairings",
+          "content": "Served with rice—often a central family meal."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Begin with the broth, then enjoy the vegetables and meat."
+        }
+      ],
+      "images": [
+        "/images/typical-dishes/olla-de-carne-1.webp",
+        "/images/typical-dishes/olla-de-carne-2.webp"	
+      ]
+    },
+    {
+      "title": "Sopa Negra (Black Bean Soup)",
+      "emoji": "🥣",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Savory soup made from black beans, lightly seasoned and traditionally served with a hard-boiled egg."
+        },
+        {
+          "heading": "History",
+          "content": "A comforting, everyday staple—affordable and beloved in many homes."
+        },
+        {
+          "heading": "Serving & Pairings",
+          "content": "Accompanied by rice or tortillas."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Perfect for rainy weather—add cilantro or hot sauce for zest."
+        }
+      ],
+      "images": [
+        "/images/typical-dishes/sopa-negra-1.jpg",
+        "/images/typical-dishes/sopa-negra-2.jpg"
+      ]
+    },
+    {
+      "title": "Tostones (Patacones)",
+      "emoji": "🍌",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Twice-fried and flattened unripe plantain slices—crispy disk-shaped treats."
+        },
+        {
+          "heading": "History",
+          "content": "A popular side or snack across Costa Rica and the Caribbean."
+        },
+        {
+          "heading": "Serving & Pairings",
+          "content": "Enjoy with bean paste, guacamole, or as bar snacks."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Squeeze lime or dip in mojo sauce for extra flavor."
+        }
+      ],
+      "images": [
+        "/images/typical-dishes/patacones.jpg",
+        "/images/typical-dishes/patacones-2.jpg"
+      ]
+    },
+    {
+      "title": "Tamales",
+      "emoji": "🌽",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Corn dough (masa) filled with meats, vegetables, or beans; wrapped in banana or bijagua leaf and steamed."
+        },
+        {
+          "heading": "History",
+          "content": "An ancient Indigenous tradition central to holiday celebrations, especially Christmas."
+        },
+        {
+          "heading": "Serving & Pairings",
+          "content": "Prepared in family gatherings (“tamaleadas”) and served during festive seasons."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Taste regional versions like rice or pork tamales during holidays."
+        }
+      ],
+      "images": [
+        "/images/typical-dishes/tamales-1.webp",
+        "/images/typical-dishes/tamales-2.jpg"        
+      ]
+    },
+    {
+      "title": "Chifrijo",
+      "emoji": "🥣",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Layers of rice, beans, fried pork (chicharrones), pico de gallo, chimichurri, avocado, and tortilla chips."
+        },
+        {
+          "heading": "History",
+          "content": "Invented in the late 1970s in Tibás; the name blends 'chi' from chicharrón and 'frijo' from frijoles."
+        },
+        {
+          "heading": "Serving & Pairings",
+          "content": "A bar favorite and popular shared snack."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Order with extra chips or pickled veggie sides (chilera)."
+        }
+      ],
+      "images": [
+        "/images/typical-dishes/chifrijo.jpg",
+        "/images/typical-dishes/chifrijo-2.avif"   
+      ]
+    },
+    {
+      "title": "Ceviche (Tico Style)",
+      "emoji": "🐟",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Raw fish (or shrimp) “cooked” in lime juice, mixed with onions, cilantro, peppers, and often served with soda crackers."
+        },
+        {
+          "heading": "History",
+          "content": "A coastal favorite, refreshing and citrusy."
+        },
+        {
+          "heading": "Serving & Pairings",
+          "content": "Served cold with crackers or chips."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Ask for a side of hot sauce or lime for an extra kick."
+        }
+      ],
+      "images": [
+        "/images/typical-dishes/ceviche-1.jpg",
+        "/images/typical-dishes/ceviche-2.jpg"   
+      ]
+    },
+    {
+      "title": "Empanadas",
+      "emoji": "🥟",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Fried corn or flour turnovers filled with ground beef, chicken, cheese, or sweet fillings."
+        },
+        {
+          "heading": "History",
+          "content": "Common soda-side snack or street food throughout Costa Rica."
+        },
+        {
+          "heading": "Serving & Pairings",
+          "content": "Enjoy with local sauces or as a quick bite."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Try both savory and sweet versions at local stalls."
+        }
+      ],
+      "images": [
+        "/images/typical-dishes/empanadas.jpg",
+        "/images/typical-dishes/empanadas-2.jpg"   
+      ]
+    },
+    {
+      "title": "Chicharrón",
+      "emoji": "🥓",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Crispy fried pork—rich, crunchy, and salty."
+        },
+        {
+          "heading": "History",
+          "content": "A popular bar snack and ingredient central to dishes like Chifrijo."
+        },
+        {
+          "heading": "Serving & Pairings",
+          "content": "Eaten alone or incorporated into other dishes."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Best when freshly fried—find them in sodas and street vendors."
+        }
+      ],
+      "images": [
+        "/images/typical-dishes/chicharron.jpg",
+        "/images/typical-dishes/chicharron-2.jpg"
+      ]
+    },
+    {
+      "title": "Picadillo",
+      "emoji": "🥣",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "A hash-like dish with diced vegetables (and sometimes meat), frequently used as filling or a side."
+        },
+        {
+          "heading": "History",
+          "content": "Part of Costa Rica’s colonial and post-colonial picadillo tradition."
+        },
+        {
+          "heading": "Serving & Pairings",
+          "content": "Often served with tortillas or as part of a casado."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Sample fresh herb versions or try it with soft tortillas."
+        }
+      ],
+      "images": [
+        "/images/typical-dishes/picadillo.avif",
+        "/images/typical-dishes/picadillo-2.jpg",
+        "/images/typical-dishes/picadillo-3.jpg"
+      ]
+    },
+    {
+      "title": "Rondón (Run-Down Stew)",
+      "emoji": "🥥",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "A Caribbean coconut seafood stew with fish or shellfish, root vegetables, plantains, and spices."
+        },
+        {
+          "heading": "History",
+          "content": "Originates from Afro-Caribbean communities; 'Rondón' means “run down,” describing the stew’s consistency."
+        },
+        {
+          "heading": "Serving & Pairings",
+          "content": "Served hot, often with coconut rice or breadfruit."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "A must-try on the Caribbean coast for authentic local flavors."
+        }
+      ],
+      "images": [
+        "/images/typical-dishes/rondon.jpg",
+        "/images/typical-dishes/rondon-2.jpeg",
+        "/images/typical-dishes/rondon-3.jpg"
+      ]
+    },
+    {
+      "title": "Tres Leches Cake",
+      "emoji": "🍰",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "A sponge cake soaked in three types of milk (evaporated, condensed, and whole milk)."
+        },
+        {
+          "heading": "History",
+          "content": "Popular throughout Latin America and beloved in Costa Rica’s dessert repertoire."
+        },
+        {
+          "heading": "Serving & Pairings",
+          "content": "Served chilled, often topped with whipped cream or fruit."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Look for versions flavored with local fruits or coffee."
+        }
+      ],
+      "images": [
+        "/images/typical-dishes/tres-leches.jpg",
+        "/images/typical-dishes/tres-leches-2.jpg"
+      ]
+    },
+    {
+      "title": "Arroz con Leche (Rice Pudding)",
+      "emoji": "🥛",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Creamy dessert made from rice, milk, sugar, and cinnamon."
+        },
+        {
+          "heading": "History",
+          "content": "A comforting, widely made homemade sweet across Costa Rican kitchens."
+        },
+        {
+          "heading": "Serving & Pairings",
+          "content": "Enjoy warm or chilled, sprinkled with cinnamon."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Enhance with raisins or local vanilla."
+        }
+      ],
+      "images": [
+        "/images/typical-dishes/arroz-leche.avif",
+        "/images/typical-dishes/arroz-leche-2.jpg"
+      ]
+    },
+    {
+      "title": "Coffee (Costa Rican Coffee)",
+      "emoji": "☕",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "High-altitude coffee renowned worldwide for its quality and flavor."
+        },
+        {
+          "heading": "History",
+          "content": "Costa Rica’s agricultural backbone and one of the world’s respected coffee producers."
+        },
+        {
+          "heading": "Serving & Pairings",
+          "content": "Served black or with sugar; pairs well with breakfast items."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Enjoy a freshly brewed cup or visit a plantation for a tasting."
+        }
+      ],
+      "images": [        
+        "/images/typical-dishes/coffe.webp",
+        "/images/typical-dishes/coffe-2.jpg",
+        "/images/typical-dishes/coffe-3.jpg",
+        "/images/typical-dishes/coffe-4.webp"
+     ]
+    }
+  ],
+  "gallery": [
+     "/images/typical-dishes/gallery-1.webp",
+     "/images/typical-dishes/gallery-2.webp",
+     "/images/typical-dishes/gallery-3.jpg",
+     "/images/typical-dishes/gallery-4.webp",
+     "/images/typical-dishes/gallery-5.webp",
+     "/images/typical-dishes/gallery-6.jpg",
+     "/images/typical-dishes/gallery-7.jpg",
+     "/images/typical-dishes/gallery-8.jpg"
+
+  ]
+}
