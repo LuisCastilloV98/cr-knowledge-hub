@@ -1,0 +1,52 @@
+.body {
+  padding: 18px;
+}
+
+/* Item layout: title spans full width; desktop = text | media */
+.item {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: minmax(260px, 1fr) minmax(240px, 420px);
+  grid-template-areas:
+    "title title"
+    "text  media";
+  align-items: start;
+  padding: 16px;
+  border-radius: 16px;
+}
+
+/* Title spans both columns on wide screens */
+.itemTitle { grid-area: title; margin: 0; }
+
+/* Left column (text/sections) */
+.itemText { grid-area: text; min-width: 0; }           
+.itemText p { margin: 0; color: var(--muted); line-height: 1.6; }
+
+/* Right column (media) */
+.itemMedia { grid-area: media; min-width: 0; }         
+.itemMedia img,
+.itemMedia .carousel-neu {
+  width: 100%;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+/* Altura de media controlada por CSS var (la usa el <img> y el Carrusel) */
+.itemMedia { --carousel-h: 320px; }
+.itemMedia img { height: var(--carousel-h); object-fit: cover; display:block; }
+
+/* Stack on small screens: title → media → text; altura elástica en móvil */
+@media (max-width: 768px){
+  .item{
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "title"
+      "media"
+      "text";
+  }
+  /* Antes 200px → ahora elástico y más alto en phones */
+  .itemMedia{ --carousel-h: clamp(240px, 75vw, 380px); }
+}
+
+/* Spacing between items */
+.itemsGrid { display: grid; gap: 18px; }

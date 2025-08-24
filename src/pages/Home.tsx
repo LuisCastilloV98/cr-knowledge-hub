@@ -1,9 +1,9 @@
 import { useMemo, useState } from "react";
 import SearchBar from "../components/SearchBar";
 import TopicCard from "../components/TopicCard";
-import type { TopicData } from "../types";
+import type { TopicData } from "../types/types";
 import ThemeToggle from "../components/ThemeToggle";
-import styles from "./Home.module.css"; // 👈 estilos del Home
+import styles from "./Home.module.css";
 
 const dataModules = import.meta.glob("../assets/data/*.json", { eager: true });
 

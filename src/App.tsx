@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
-import TopicDetail from "./pages/TopicDetail";
+import TopicDetail from "./components/TopicDetail";
 import './App.css'
 
 function App() {

@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import type { TopicData } from "../types";
+import type { TopicData } from "../types/types";
 import { withBase } from "../utils/withBase";
 
 export default function TopicCard({ topic }: { topic: TopicData }){
