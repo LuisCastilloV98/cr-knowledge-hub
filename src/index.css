@@ -148,3 +148,14 @@ body{background:var(--bg); color:var(--text);}
 .swiper-pagination {
   bottom: 10px !important;
 }
+
+
+/* Cursor y micro-zoom en miniaturas del gallery */
+.gallery-btn img {
+  cursor: zoom-in;
+  transition: transform .18s ease;
+}
+.gallery-btn:hover img { transform: scale(1.03); }
+
+/* Swiper ocupa la altura del contenedor (si usas altura fija en el carrusel) */
+.swiper, .swiper-wrapper, .swiper-slide { height: 100% !important; }

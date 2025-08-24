@@ -1,9 +1,10 @@
-import { useMemo } from "react";
+import { useMemo, useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import type { TopicData } from "../types/types";
 import { withBase } from "../utils/withBase";
 import useRevealOnScroll from "../hooks/useRevealOnScroll";
 import Carousel from "../components/Carousel";
+import LightboxViewer from "../components/LightboxViewer";
 import styles from "./TopicDetail.module.css";
 
 const dataModules = import.meta.glob<{ default: TopicData }>(
@@ -32,7 +33,7 @@ function RevealImg({ src, alt }: { src: string; alt: string }) {
       alt={alt}
       loading="lazy"
       decoding="async"
-      style={{ borderRadius: 14 }}
+      style={{ borderRadius: 14, width: "100%", height: "auto", display: "block" }}
     />
   );
 }
@@ -45,6 +46,12 @@ export default function TopicDetail() {
   const topic = getBySlug(slug);
 
   const gallery = useMemo(() => asArray<string>(topic?.gallery), [topic]);
+
+  // Lightbox state
+  const [lbOpen, setLbOpen] = useState(false);
+  const [lbIndex, setLbIndex] = useState(0);
+  const openAt = (idx: number) => { setLbIndex(idx); setLbOpen(true); };
+  const close = () => setLbOpen(false);
 
   if (!topic) {
     return (
@@ -69,6 +76,7 @@ export default function TopicDetail() {
             objectFit: "cover",
             borderTopLeftRadius: 18,
             borderTopRightRadius: 18,
+            display: "block",
           }}
           loading="eager"
           decoding="async"
@@ -101,13 +109,13 @@ export default function TopicDetail() {
                   if (rich) {
                     return (
                       <article key={idx} className={`neu-surface ${styles.item}`}>
-
+                        {/* Title spans full width; on mobile it's first */}
                         <h3 className={styles.itemTitle}>
                           {raw.emoji ? <span style={{ marginRight: 6 }}>{raw.emoji}</span> : null}
                           {raw.title}
                         </h3>
 
-
+                        {/* Media: desktop right; mobile under title */}
                         <div className={styles.itemMedia}>
                           {images.length > 1 ? (
                             <Carousel images={images} ariaLabel={`${raw.title} images`} />
@@ -117,7 +125,6 @@ export default function TopicDetail() {
                               alt={raw.title}
                               loading="lazy"
                               decoding="async"
-
                               style={{
                                 width: "100%",
                                 height: "var(--carousel-h, 320px)",
@@ -129,7 +136,7 @@ export default function TopicDetail() {
                           ) : null}
                         </div>
 
-
+                        {/* Text/Sections */}
                         <div className={styles.itemText}>
                           {sections.length > 0 ? (
                             <div style={{ display: "grid", gap: 12 }}>
@@ -148,7 +155,7 @@ export default function TopicDetail() {
                     );
                   }
 
-
+                  // Fallback simple list (no sections/images)
                   return (
                     <li key={idx} style={{ marginBottom: 12, listStyle: "disc inside" }}>
                       <strong>
@@ -161,7 +168,7 @@ export default function TopicDetail() {
                           <img
                             src={withBase(raw.image)}
                             alt={raw.title}
-                            style={{ width: "100%", maxWidth: 520, borderRadius: 14 }}
+                            style={{ width: "100%", maxWidth: 520, borderRadius: 14, display: "block" }}
                             loading="lazy"
                             decoding="async"
                           />
@@ -176,14 +183,30 @@ export default function TopicDetail() {
 
           {gallery.length > 0 && (
             <>
-              <h2>Gallery</h2>
-              <div className="gallery">
+                <h2>Gallery</h2>
+
+                <div className="gallery">
                 {gallery.map((g, idx) => (
-                  <RevealImg key={idx} src={g} alt={`${topic.title} ${idx + 1}`} />
+                    <button
+                    key={idx}
+                    className="gallery-btn"
+                    onClick={() => openAt(idx)}
+                    aria-label={`Open image ${idx + 1}`}
+                    style={{ padding: 0, border: 0, background: "transparent" }}
+                    >
+                    <RevealImg src={g} alt={`${topic.title} ${idx + 1}`} />
+                    </button>
                 ))}
-              </div>
+                </div>
+
+                <LightboxViewer
+                open={lbOpen}
+                index={lbIndex}
+                images={gallery}
+                onClose={close}
+                />
             </>
-          )}
+            )}
         </div>
       </section>
     </main>
