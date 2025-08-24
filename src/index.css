@@ -156,3 +156,6 @@ body{background:var(--bg); color:var(--text);}
   transition: transform .18s ease;
 }
 .gallery-btn:hover img { transform: scale(1.03); }
+
+/* Center position */
+.swiper, .swiper-wrapper, .swiper-slide { height: 100% !important; align-items: center; }
