@@ -1,0 +1,35 @@
+{
+  "slug": "national-parks",
+  "title": "National Parks of Costa Rica",
+  "emoji": "🌋",
+  "shortDescription": "Volcanoes, rainforests and coastlines protected for future generations.",
+  "longDescription": "The National Park System preserves volcanoes such as Arenal and Poás, cloud forests like Monteverde, and marine habitats in Cahuita and Marino Ballena, promoting conservation and education.",
+  "cardImage": "/images/national-parks/card-placeholder.png",
+  "wideImage": "/images/national-parks/placeholder.jpg",
+  "textImage": "/images/national-parks/topic-1.jpg",
+  "items": [
+    {
+      "title": "Alberto Manuel Brenes",
+      "emoji": "🌿",
+      "description": "A perfectly conical volcano surrounded by hot springs and lush forest.",
+      "image": "/images/national-parks/Alberto-Manuel-Brenes-Bilogical-Reserve.jpeg"
+    },
+    {
+      "title": "Manuel Antonio",
+      "emoji": "🏖️",
+      "description": "A perfectly conical volcano surrounded by hot springs and lush forest.",
+      "image": "/images/national-parks/Alberto-Manuel-Brenes-Bilogical-Reserve.jpeg"
+    },
+    {
+      "title": "Tortuguero",
+      "emoji": "🐢",
+      "description": "A perfectly conical volcano surrounded by hot springs and lush forest.",
+      "image": "/images/national-parks/Alberto-Manuel-Brenes-Bilogical-Reserve.jpeg"
+    }
+  ],
+  "gallery": [
+    "/images/national-parks/Alberto-Manuel-Brenes-Bilogical-Reserve.jpeg",
+    "/images/national-parks/Alberto-Manuel-Brenes-Bilogical-Reserve.jpeg",
+    "/images/national-parks/Alberto-Manuel-Brenes-Bilogical-Reserve.jpeg"
+  ]
+}

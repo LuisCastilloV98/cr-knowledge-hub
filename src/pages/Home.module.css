@@ -1,0 +1,71 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 18px;
+}
+
+.logo {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.hero {
+  padding: 28px;
+  margin-bottom: 22px;
+  text-align: center;
+  display: grid;
+  gap: 14px;
+}
+
+.heroBadge {
+  display: inline-block;      
+  width: auto;                
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  color: var(--text);
+  background: var(--bg);
+  box-shadow: var(--shadow-dark), var(--shadow-light);
+  margin: 0 auto 10px;       
+  text-align: center;
+}
+.heroTitle {
+  margin: 8px 0 10px;
+  font-size: 2.2rem;
+  line-height: 1.2;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  background: linear-gradient(90deg, var(--text), var(--accent));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.highlight {
+  white-space: nowrap; 
+}
+
+.heroDesc {
+  margin: 0 auto 8px;
+  color: var(--muted);
+  max-width: 820px;
+  line-height: 1.6;
+}
+
+.heroStats {
+  font-size: 0.95rem;
+  color: var(--muted);
+  margin-top: 8px;
+}
+
+.searchSection {
+  margin-bottom: 18px;
+}
+
+.noResults {
+  padding: 18px;
+  text-align: center;
+  color: var(--muted);
+}
