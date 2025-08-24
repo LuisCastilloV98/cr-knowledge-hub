@@ -1,0 +1,63 @@
+{
+  "slug": "national-parks",
+  "title": "National Parks of Costa Rica",
+  "emoji": "🌋",
+  "shortDescription": "Volcanoes, rainforests and coastlines protected for future generations.",
+  "longDescription": "Costa Rica is home to an extraordinary National System of Conservation Areas that protects an incredible diversity of ecosystems and unique species found nowhere else in the world. From majestic volcanoes like Arenal, Poás, Irazú, and Rincón de la Vieja, to the mystical cloud forests of Monteverde and Santa Elena, the country is a true natural sanctuary. Its national parks, such as Manuel Antonio, Corcovado, Tortuguero, and Cahuita, shelter an astonishing variety of wildlife, including monkeys, jaguars, sloths, sea turtles, and exotic birds. Marine reserves like Marino Ballena and Coco Island protect coral reefs, mangroves, and endangered marine species. This extensive system not only promotes scientific research and environmental education but also drives sustainable ecotourism, encouraging the conservation of biodiversity and respect for natural resources.",
+  "cardImage": "/images/national-parks/card-placeholder.png",
+  "wideImage": "/images/national-parks/placeholder.jpg",
+  "items": [
+    {
+      "title": "Alberto Manuel Brenes Biological Reserve",
+      "emoji": "🌿",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Alberto Manuel Brenes Biological Reserve is located in the southeastern part of the Tilarán Mining Sierra... 7800 hectares, elevation 1520 m, average temperature 21°C, rainfall 3461 mm."
+        },
+        {
+          "heading": "History",
+          "content": "Declared in 1975 (Decree No. 4960-A)... category changes in 1991 and 1993... co-managed by UCR (Western HQ) and SINAC."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "Restricted access for research and education only. Fees per Decree 38770-MINAE: researchers $5 (≤1m), $10 (≤2m), $15 (≤6m)..."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Rodolfo Ruiz Research Station (lab, classroom, kitchen, bathrooms, 40 people). Control posts in Cedral and Bajo Jamaical..."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Research permits required under Biodiversity Law No. 7788. No introduction of exotic species..."
+        },
+        {
+          "heading": "Wildlife in Premontane Forest",
+          "content": "High diversity: jaguar, tapir, puma; monkeys; diverse birds; 30+ amphibians and 36 reptiles..."
+        }
+      ],
+      "images": [
+        "/images/national-parks/Alberto-Manuel-Brenes-Bilogical-Reserve.jpeg",
+        "/images/national-parks/card-placeholder.png",
+        "/images/national-parks/placeholder.jpg"
+      ]
+    },
+    {
+      "title": "Manuel Antonio",
+      "emoji": "🏖️",
+      "description": "A perfectly conical volcano surrounded by hot springs and lush forest.",
+      "image": "/images/national-parks/Alberto-Manuel-Brenes-Bilogical-Reserve.jpeg"
+    },
+    {
+      "title": "Tortuguero",
+      "emoji": "🐢",
+      "description": "A perfectly conical volcano surrounded by hot springs and lush forest.",
+      "image": "/images/national-parks/Alberto-Manuel-Brenes-Bilogical-Reserve.jpeg"
+    }
+  ],
+  "gallery": [
+    "/images/national-parks/Alberto-Manuel-Brenes-Bilogical-Reserve.jpeg",
+    "/images/national-parks/Alberto-Manuel-Brenes-Bilogical-Reserve.jpeg",
+    "/images/national-parks/Alberto-Manuel-Brenes-Bilogical-Reserve.jpeg"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "slug": "national-parks",
   "title": "National Parks of Costa Rica",
-  "emoji": "🌋",
+  "emoji": "🌿",
   "shortDescription": "Volcanoes, rainforests and coastlines protected for future generations.",
   "longDescription": "Costa Rica is home to an extraordinary National System of Conservation Areas that protects an incredible diversity of ecosystems and unique species found nowhere else in the world. From majestic volcanoes like Arenal, Poás, Irazú, and Rincón de la Vieja, to the mystical cloud forests of Monteverde and Santa Elena, the country is a true natural sanctuary. Its national parks, such as Manuel Antonio, Corcovado, Tortuguero, and Cahuita, shelter an astonishing variety of wildlife, including monkeys, jaguars, sloths, sea turtles, and exotic birds. Marine reserves like Marino Ballena and Coco Island protect coral reefs, mangroves, and endangered marine species. This extensive system not only promotes scientific research and environmental education but also drives sustainable ecotourism, encouraging the conservation of biodiversity and respect for natural resources.",
   "cardImage": "/images/national-parks/card-placeholder.png",
@@ -13,51 +13,679 @@
       "sections": [
         {
           "heading": "Information",
-          "content": "Alberto Manuel Brenes Biological Reserve is located in the southeastern part of the Tilarán Mining Sierra... 7800 hectares, elevation 1520 m, average temperature 21°C, rainfall 3461 mm."
+          "content": "A 7,800-ha reserve in the Tilarán Mining Sierra preserving premontane wet forests. Elevation up to ~1,520 m; avg. temperature ~21°C; rainfall ~3,461 mm. Over 50 species recorded as endemic to Costa Rica."
         },
         {
           "heading": "History",
-          "content": "Declared in 1975 (Decree No. 4960-A)... category changes in 1991 and 1993... co-managed by UCR (Western HQ) and SINAC."
+          "content": "Declared in 1975 (Decree 4960-A). Category adjustments in 1991 and 1993. Co-managed by the University of Costa Rica (Western HQ) and SINAC."
         },
         {
           "heading": "Hours and Rates",
-          "content": "Restricted access for research and education only. Fees per Decree 38770-MINAE: researchers $5 (≤1m), $10 (≤2m), $15 (≤6m)..."
+          "content": "Restricted access focused on research and education. Entry typically requires prior authorization; fees per SINAC decrees for research stays. Verify with SINAC/UCR before planning."
         },
         {
           "heading": "Services and Attractions",
-          "content": "Rodolfo Ruiz Research Station (lab, classroom, kitchen, bathrooms, 40 people). Control posts in Cedral and Bajo Jamaical..."
+          "content": "Rodolfo Ruiz Research Station (basic labs/classroom, kitchen, restrooms, bunk lodging), ranger posts at Cedral and Bajo Jamaical. Primary appeal is scientific research and biodiversity monitoring."
         },
         {
           "heading": "Recommendations",
-          "content": "Research permits required under Biodiversity Law No. 7788. No introduction of exotic species..."
-        },
-        {
-          "heading": "Wildlife in Premontane Forest",
-          "content": "High diversity: jaguar, tapir, puma; monkeys; diverse birds; 30+ amphibians and 36 reptiles..."
+          "content": "Research permits required under Biodiversity Law No. 7788. No extraction or introduction of species; follow biosecurity and low-impact guidelines. Coordinate logistics with SINAC and UCR in advance."
         }
       ],
       "images": [
-        "/images/national-parks/Alberto-Manuel-Brenes-Bilogical-Reserve.jpeg",
-        "/images/national-parks/card-placeholder.png",
-        "/images/national-parks/placeholder.jpg"
+        "/images/national-parks/alberto-manuel-brenes-1.webp",
+        "/images/national-parks/alberto-manuel-brenes-2.jpg",
+        "/images/national-parks/alberto-manuel-brenes-3.jpg",
+        "/images/national-parks/alberto-manuel-brenes-4.jpg"
+      ],
+      "sources": [":contentReference[oaicite:0]{index=0}"]
+    },
+    {
+      "title": "Arenal Volcano National Park",
+      "emoji": "🌋",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Iconic stratovolcano with conical profile, surrounded by rainforest trails and historic lava flows. Nearby hot springs and waterfalls complement the park experience."
+        },
+        {
+          "heading": "History",
+          "content": "Known for its 1968 eruption and subsequent activity phases; the park protects volcanic landscapes and mid-elevation forests important for hydrology and wildlife."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "Typical hours 8:00–16:00; reference rates have historically differed for residents and non-residents. Verify current hours/rates and any sector-specific rules via SINAC’s booking portal."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Signed trails to viewpoints and old flows; basic services in main sectors; private hot springs and falls in the surrounding area (outside SINAC)."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Reserve high-demand slots in peak seasons; bring rain gear and sturdy footwear; respect volcanic risk signage."
+        }
+      ],
+      "images": [
+        "/images/national-parks/arenal-volcano.jpg",
+        "/images/national-parks/arenal-volcano-2.jpeg",
+        "/images/national-parks/arenal-volcano-3.webp",
+        "/images/national-parks/arenal-volcano-4.jpg"
+        ]
+    },
+    {
+      "title": "Braulio Carrillo National Park",
+      "emoji": "🌳",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "One of Costa Rica’s largest protected areas (~50,000 ha) spanning steep mountains blanketed by dense forest, carved by deep canyons and rivers crucial for hydroelectric production."
+        },
+        {
+          "heading": "History",
+          "content": "Established to conserve Caribbean-slope forests near the Central Volcanic Range and safeguard watershed services for the Greater Metropolitan Area."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "Hours and fees vary by sector (e.g., Quebrada González, Volcán Barva). Check current schedules and pricing with SINAC before visiting."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Sector-based trail systems, viewpoints, ranger stations; birding hotspots along the highway corridor; access points differ by sector."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Expect heavy rainfall and fog; drive carefully on mountain roads; verify which sector/trails are open prior to travel."
+        }
+      ],
+      "images": [
+        "/images/national-parks/braulio-carrillo.jpg",
+        "/images/national-parks/braulio-carrillo-2.jpg",
+        "/images/national-parks/braulio-carrillo-3.jpg",
+        "/images/national-parks/braulio-carrillo-4.jpg"
       ]
     },
     {
-      "title": "Manuel Antonio",
-      "emoji": "🏖️",
-      "description": "A perfectly conical volcano surrounded by hot springs and lush forest.",
-      "image": "/images/national-parks/Alberto-Manuel-Brenes-Bilogical-Reserve.jpeg"
+      "title": "Cahuita National Park",
+      "emoji": "🏝️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Protects white-sand beaches, coastal rainforest and one of the best-preserved coral reefs on Costa Rica’s Caribbean coast."
+        },
+        {
+          "heading": "History",
+          "content": "Created to conserve critical marine and coastal habitats, including reef, seagrass, and mangroves intertwined with Afro-Caribbean culture."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "Hours can vary seasonally; snorkeling access is weather/visibility dependent. Verify with SINAC locally."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Beach trails, reef snorkeling with authorized operators, wildlife viewing (sloths, monkeys, iguanas)."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Use certified guides for reef activities; avoid stepping on coral; pack out all trash."
+        }
+      ],
+      "images": [
+        "/images/national-parks/cahuita.jpeg",
+        "/images/national-parks/cahuita-2.jpg",
+        "/images/national-parks/cahuita-3.jpg",
+        "/images/national-parks/cahuita-4.jpg"
+      ]
     },
     {
-      "title": "Tortuguero",
+      "title": "Carara National Park",
+      "emoji": "🦜",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Unique transition forest between dry and wet Pacific zones, yielding exceptional biodiversity and reliable sightings of scarlet macaws."
+        },
+        {
+          "heading": "History",
+          "content": "Protected to conserve lowland Pacific habitats and key wildlife corridors near the Tárcoles River."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "Sector hours and accessibility features vary; confirm details on the SINAC page before travel."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Universal-access trails, birding platforms, proximity to crocodile view points along the Tárcoles bridge (outside park limits)."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Go early for bird activity; respect wildlife distance; high humidity year-round."
+        }
+      ],
+      "images": [
+        "/images/national-parks/carara.jpg",
+        "/images/national-parks/carara-1.jpg",
+        "/images/national-parks/carara-2.webp",
+        "/images/national-parks/carara-3.jpg",
+        "/images/national-parks/carara-4.jpg"
+        ]
+    },
+    {
+      "title": "Chirripó National Park",
+      "emoji": "🏔️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Home to Cerro Chirripó (3,821 m), with páramo ecosystems, glacial lakes, and sweeping views on clear mornings."
+        },
+        {
+          "heading": "History",
+          "content": "Created to protect high-elevation habitats unique in Central America; access is quota-controlled to reduce impact."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "Entrance and lodging require advance booking through authorized systems; verify current rates and quotas with SINAC."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Long-distance hiking to base camps, lakes, and summits; basic services in refuges via concessionaires (subject to change)."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Train adequately, pack for cold/wet conditions, and book well in advance."
+        }
+      ],
+      "images": [
+        "/images/national-parks/chirripo.jpg",
+        "/images/national-parks/chirripo-2.webp",
+        "/images/national-parks/chirripo-3.jpg",
+        "/images/national-parks/chirripo-4.jpg",
+        "/images/national-parks/chirripo-5.webp"
+      ]
+    },
+    {
+      "title": "Corcovado National Park",
+      "emoji": "🐆",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Often described as one of the most biologically intense places on Earth. Five visitor sectors: San Pedrillo, Sirena, La Leona, Los Patos, and El Tigre."
+        },
+        {
+          "heading": "History",
+          "content": "Protected to conserve the last large tracts of Pacific lowland rainforest in Central America; strict regulations due to sensitive wildlife and terrain."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "Open daily 7:00–16:00. Sirena sector closes to visitors in October. Reference rates: residents ¢1,600; non-residents US$15; separate camping fees in designated stations; child rates available. Verify per sector and season."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Ranger stations, guided trails, wildlife viewing (tapirs, macaws, monkeys, cats). Many itineraries require certified guides and prior reservations."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Book certified guides; carry sufficient water/food; expect hot, humid conditions; check river/sea conditions for access."
+        }
+      ],
+      "images": [
+        "/images/national-parks/corcovado.jpg",
+        "/images/national-parks/corcovado-2.webp",
+        "/images/national-parks/corcovado-3.jpg",
+        "/images/national-parks/corcovado-4.jpg",
+        "/images/national-parks/corcovado-5.jpg",
+        "/images/national-parks/corcovado-6.jpg",
+        "/images/national-parks/corcovado-7.jpg"
+      ]
+    },
+    {
+      "title": "Grecia Forest Reserve (Bosque del Niño)",
+      "emoji": "🌲",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Important for protecting water resources for Grecia, Poás, and Valverde Vega; mix of secondary forest, plantations, and recreation areas."
+        },
+        {
+          "heading": "History",
+          "content": "Established as a forest reserve with local community value for education and watershed protection."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "Managed access with day-use areas; verify up-to-date schedule and fees locally."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Short trails, picnic sites, lookout points; environmental education activities."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Weekends can be busy; pack out trash and respect watershed rules."
+        }
+      ],
+      "images": [
+        "/images/national-parks/grecia-forest.jpg",
+        "/images/national-parks/grecia-forest-2.jpg",
+        "/images/national-parks/grecia-forest-3.jpg",
+        "/images/national-parks/grecia-forest-4.jpg",
+        "/images/national-parks/grecia-forest-5.jpg"
+        ]
+    },
+    {
+      "title": "Guayabo National Monument",
+      "emoji": "🏛️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Costa Rica’s largest pre-Columbian archaeological site set within protected forest, featuring stone mounds, causeways, aqueducts, and petroglyphs."
+        },
+        {
+          "heading": "History",
+          "content": "Monument preserves an advanced pre-Hispanic settlement and hydraulic engineering; ongoing research and conservation."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "Day-use; confirm current hours and prices via SINAC and local sector office."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Interpretive trails, museum/visitor center (as available), guided visits."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Wear sturdy shoes; respect cultural heritage—no climbing on structures."
+        }
+      ],
+      "images": [
+        "/images/national-parks/guayabo.jpg",
+        "/images/national-parks/guayabo-2.jpg",
+        "/images/national-parks/guayabo-3.jpg",
+        "/images/national-parks/guayabo-4.jpg",
+        "/images/national-parks/guayabo-5.jpg"
+      ]
+    },
+    {
+      "title": "Irazú Volcano National Park",
+      "emoji": "🌋",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Costa Rica’s highest volcano, with multiple craters and lunar landscapes; close to San José with paved road access."
+        },
+        {
+          "heading": "History",
+          "content": "Repeated eruptive phases shaped today’s craters; park created to conserve high-elevation habitats and geological features."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "SINAC lists dedicated sections for hours and fees; verify before travel due to weather and capacity controls."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Lookouts, signed paths near crater rims, ranger presence, parking; conditions can be windy and cold."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Arrive early for clearer views; bring warm layers and sun protection; monitor volcanic advisories."
+        }
+      ],
+      "images": [
+        "/images/national-parks/irazu-volcano.jpg",
+        "/images/national-parks/irazu-volcano-2.jpg",
+        "/images/national-parks/irazu-volcano-3.webp",
+        "/images/national-parks/irazu-volcano-4.JPG",        
+        "/images/national-parks/irazu-volcano-5.jpg"
+      ]
+    },
+    {
+      "title": "La Cangreja National Park",
+      "emoji": "🦀",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Mountainous landscapes and panoramic viewpoints named after a local legend that the massif resembles a crab."
+        },
+        {
+          "heading": "History",
+          "content": "Protected to conserve Pacific slope forests and watersheds west of the Central Valley."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "Typical hours 8:00–16:00; verify seasonal updates and entrance fees with SINAC."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Summit/lookout hikes, birding along mid-elevation forests; basic sector services."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Carry water and sun protection; some trails are steep and exposed."
+        }
+      ],
+      "images": [
+        "/images/national-parks/la-cangreja.jpg",
+        "/images/national-parks/la-cangreja-2.jpg",
+        "/images/national-parks/la-cangreja-3.jpg",
+        "/images/national-parks/la-cangreja-4.jpg",
+        "/images/national-parks/la-cangreja-5.jpg",
+        "/images/national-parks/la-cangreja-6.jpeg"
+        ]
+    },
+    {
+      "title": "Los Quetzales National Park",
+      "emoji": "🐦",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "High-elevation cloud forests protecting habitat for the resplendent quetzal and other montane species."
+        },
+        {
+          "heading": "History",
+          "content": "Created to safeguard critical breeding and feeding areas along the Talamanca highlands."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "Commonly open in daytime hours; fees differ for residents/non-residents. Verify with SINAC."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Birdwatching trails, viewpoints, ranger posts; chilly, humid conditions."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Best sightings at dawn; hire local bird guides; dress in layers."
+        }
+      ],
+      "images": [
+        "/images/national-parks/los-quetzales.webp",
+        "/images/national-parks/los-quetzales-2.webp",
+        "/images/national-parks/los-quetzales-3.jpeg",
+        "/images/national-parks/los-quetzales-4.jpg",
+        "/images/national-parks/los-quetzales-5.jpg"
+        ]
+    },
+    {
+      "title": "Manuel Antonio National Park",
+      "emoji": "🏖️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Compact park with stunning beaches and dense wildlife (monkeys, sloths, toucans) connected by a well-maintained trail network."
+        },
+        {
+          "heading": "History",
+          "content": "Protected to conserve lowland Pacific coastal habitats amid tourism pressure; ongoing management balances access and conservation."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "Open Wednesday–Monday (closed Tuesdays); capacity controls apply. Tickets are sold exclusively online via SINAC—create an account and book in advance."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Marked trails to Playa Espadilla Sur, Playa Manuel Antonio, and viewpoints; restrooms and ranger facilities in main sector."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Book early in high season; no single-use plastics; secure food—monkeys and raccoons are habituated to visitors."
+        }
+      ],
+      "images": [
+            "/images/national-parks/anuel-antonio.jpg",
+            "/images/national-parks/anuel-antonio-2.jpg",
+            "/images/national-parks/anuel-antonio-3.jpg",
+            "/images/national-parks/anuel-antonio-4.jpg",
+            "/images/national-parks/anuel-antonio-5.jpg",
+            "/images/national-parks/anuel-antonio-6.jpg"
+        ]
+    },
+    {
+      "title": "Marino Ballena National Park",
+      "emoji": "🐋",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Marine and coastal park famous for seasonal humpback whale migrations and the ‘whale tail’ tombolo at Playa Uvita."
+        },
+        {
+          "heading": "History",
+          "content": "Created to protect coral reefs, seagrass, mangroves, and coastal fauna on the southern Pacific coast."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "Daytime hours with tide-dependent access to the ‘whale tail.’ Fees posted by SINAC; confirm locally."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Boat tours for whales/dolphins in season, snorkeling on suitable conditions, beaches and coastal walks."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Check tides; use certified operators; respect marine wildlife distances."
+        }
+      ],
+      "images": [
+        "/images/national-parks/marino-ballena.jpeg",
+        "/images/national-parks/marino-ballena-2.webp",
+        "/images/national-parks/marino-ballena-3.webp",
+        "/images/national-parks/marino-ballena-4.webp",
+        "/images/national-parks/marino-ballena-5.webp",
+        "/images/national-parks/marino-ballena-6.webp"
+        ]
+    },
+    {
+      "title": "Poás Volcano National Park",
+      "emoji": "🌋",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Hosts one of the world’s largest active craters amid cloud forest. Access may be restricted due to volcanic conditions."
+        },
+        {
+          "heading": "History",
+          "content": "Long history of eruptions shaped current crater lakes and fumaroles; monitoring informs visitor management."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "Timed entries and mandatory online reservations may apply; verify on SINAC before travel."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Lookouts near the main crater, visitor information, short interpretive trails; closures possible during activity spikes."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Arrive early for visibility; follow safety instructions; bring jackets and eye protection if windy."
+        }
+      ],
+      "images": [
+        "/images/national-parks/poas-volcano.jpg",
+        "/images/national-parks/poas-volcano-2.jpg",
+        "/images/national-parks/poas-volcano-3.jpg",
+        "/images/national-parks/poas-volcano-4.webp",
+        "/images/national-parks/poas-volcano-5.jpg",
+        "/images/national-parks/poas-volcano-6.jpg"
+      ]
+    },
+    {
+      "title": "Rincón de la Vieja National Park",
+      "emoji": "🌋",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Active volcanic complex with mud pots, fumaroles, and diverse ecosystems from dry to cloud forest across multiple sectors."
+        },
+        {
+          "heading": "History",
+          "content": "Protected to conserve volcanic landscapes and Guanacaste dry forests; management varies by sector and season."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "Common hours by sector include 7:00–15:00 or 8:00–16:00; residents/non-residents rates differ. Verify current sector access."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Sector Pailas mud pots and short loops; longer hikes to waterfalls and viewpoints; ranger stations and basic facilities."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "High temps and sun exposure—carry water and hat; heed volcanic advisories; some trails close during rainy season."
+        }
+      ],
+      "images": [
+        "/images/national-parks/rincon-vieja.webp",
+        "/images/national-parks/rincon-vieja-2.png",
+        "/images/national-parks/rincon-vieja-3.webp",
+        "/images/national-parks/rincon-vieja-4.webp",
+        "/images/national-parks/rincon-vieja-5.jpg",
+        "/images/national-parks/rincon-vieja-6.jpg",
+        "/images/national-parks/rincon-vieja-7.jpg",
+        "/images/national-parks/rincon-vieja-8.webp"
+      ]
+    },
+    {
+      "title": "Santa Rosa National Park",
+      "emoji": "🌅",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Part of the Guanacaste Conservation Area; protects seasonal dry forests, wildlife, surf beaches, and the historic 1856 battle site."
+        },
+        {
+          "heading": "History",
+          "content": "Established both for biodiversity and national heritage conservation; later recognized as part of a UNESCO World Heritage complex."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "Daytime hours; fees posted by SINAC. Some sectors require coordination; verify before visiting."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Historic hacienda area, beaches (seasonal turtle nesting), wildlife viewing, trails and lookouts."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Dry season is very hot; bring water and sun protection; respect nesting beach protocols."
+        }
+      ],
+      "images": [
+        "/images/national-parks/santa-rosa.webp",
+        "/images/national-parks/santa-rosa-2.jpg",
+        "/images/national-parks/santa-rosa-3.jpg",
+        "/images/national-parks/santa-rosa-4.jpg",
+        "/images/national-parks/santa-rosa-5.webp",
+        "/images/national-parks/santa-rosa-6.jpg",
+        "/images/national-parks/santa-rosa-7.webp"
+      ]
+    },
+    {
+      "title": "Tenorio Volcano National Park",
+      "emoji": "🌊",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Protects the turquoise Río Celeste created by mineral mixing at ‘Teñideros’, plus rainforest and volcanic features."
+        },
+        {
+          "heading": "History",
+          "content": "Park established to conserve the Tenorio volcanic massif and iconic Celeste watershed under growing visitation."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "Entry daily 8:00–14:00; exit allowed until 16:00. Reference rates: residents ¢800; non-residents US$12. Always verify current pricing and capacity."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Signed trail to the 30-m Río Celeste waterfall, viewpoints, ranger facilities, drinking water, restrooms, parking."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Arrive early; trail can be muddy—use proper footwear; swimming usually prohibited in protected sections."
+        }
+      ],
+      "images": [
+        "/images/national-parks/tenorio-volcano.jpg",
+        "/images/national-parks/tenorio-volcano-2.webp",
+        "/images/national-parks/tenorio-volcano-3.jpg",
+        "/images/national-parks/tenorio-volcano-4.jpg",
+        "/images/national-parks/tenorio-volcano-5.webp"
+      ]
+    },
+    {
+      "title": "Tortuguero National Park",
       "emoji": "🐢",
-      "description": "A perfectly conical volcano surrounded by hot springs and lush forest.",
-      "image": "/images/national-parks/Alberto-Manuel-Brenes-Bilogical-Reserve.jpeg"
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Remote Caribbean-slope park accessible only by boat or plane, famous for nesting sea turtles, extensive canals, and mangroves."
+        },
+        {
+          "heading": "History",
+          "content": "Established to protect critical turtle nesting beaches and vast lowland wetlands on the northern Caribbean coast."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "SINAC provides sector-specific hours/fees. Book boats/guides in Tortuguero village; verify seasonal rules for nesting access."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Canal boat tours, guided night turtle walks in season, observation towers, ranger posts."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Respect turtle-watching protocols (no flash, certified guides). Heavy rains common—pack waterproof layers."
+        }
+      ],
+      "images": [
+        "/images/national-parks/tortuguero.jpg",
+        "/images/national-parks/tortuguero-2.jpg",
+        "/images/national-parks/tortuguero-3.jpg",
+        "/images/national-parks/tortuguero-4.jpg",
+        "/images/national-parks/tortuguero-5.jpg",
+        "/images/national-parks/tortuguero-6.webp"
+        ]
+    },
+    {
+      "title": "Turrialba Volcano National Park",
+      "emoji": "🌋",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Easternmost stratovolcano of the Central Volcanic Range with three craters; landscapes shaped by explosive and effusive events."
+        },
+        {
+          "heading": "History",
+          "content": "Periodic eruptive phases have prompted adaptive visitor management, including area closures when necessary."
+        },
+        {
+          "heading": "Hours and Rates",
+          "content": "Access depends on volcanic activity and sector status; confirm current openings, hours and fees with SINAC before travel."
+        },
+        {
+          "heading": "Services and Attractions",
+          "content": "Lookouts and trails when open; dramatic highland scenery; basic services in open sectors."
+        },
+        {
+          "heading": "Recommendations",
+          "content": "Check seismic/volcanic advisories; bring warm layers; follow ranger guidance strictly."
+        }
+      ],
+      "images": [
+        "/images/national-parks/turrialba.webp",
+        "/images/national-parks/turrialba-2.jpg",
+        "/images/national-parks/turrialba-3.jpg",
+        "/images/national-parks/turrialba-4.jpg",
+        "/images/national-parks/turrialba-5.jpg",
+        "/images/national-parks/turrialba-6.jpg"
+      ]
     }
   ],
   "gallery": [
-    "/images/national-parks/Alberto-Manuel-Brenes-Bilogical-Reserve.jpeg",
-    "/images/national-parks/Alberto-Manuel-Brenes-Bilogical-Reserve.jpeg",
-    "/images/national-parks/Alberto-Manuel-Brenes-Bilogical-Reserve.jpeg"
+    "/images/national-parks/gallery-1.jpg",
+    "/images/national-parks/gallery-2.jpg",
+    "/images/national-parks/gallery-3.jpg",
+    "/images/national-parks/gallery-4.jpg",
+    "/images/national-parks/gallery-5.jpg",
+    "/images/national-parks/gallery-6.avif",
+    "/images/national-parks/gallery-7.jpg",
+    "/images/national-parks/gallery-8.jpg"
   ]
 }
