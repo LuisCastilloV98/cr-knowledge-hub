@@ -1,0 +1,488 @@
+{
+  "slug": "festivals-of-costa-rica",
+  "title": "Costa Rican Festivals",
+  "emoji": "🎉",
+  "shortDescription": "Explore Costa Rica’s vibrant and diverse festivals throughout the year.",
+  "longDescription": "Costa Rica is a land of festivity, where every month brings a new celebration rooted in history, culture, religion, and community. From Indigenous rituals to national holidays, agricultural fairs, music festivals, and religious processions—these festivals animate towns and cities across the country with parades, music, dance, crafts, gastronomy, and deep cultural significance. Whether it’s the wild energy of the Limón Carnival, the devotional pilgrimage for the Virgin of Los Ángeles, or the colorful oxcart parades of Boyero’s Day, each event offers a lens into Costa Rica’s identity and traditions. Festivals serve as educational platforms, preserving oral histories, reinforcing community bonds, and celebrating the connections between people, land, and spiritual ancestry.",
+  "cardImage": "/images/festivals-costa-rica/card.jpg",
+  "wideImage": "/images/festivals-costa-rica/wide.jpg",
+  "items": [
+     {
+      "title": "Festival del Mamón (Feria Nacional del Rambután)",
+      "emoji": "🥭",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "Held annually in Pueblo Nuevo de Cajón, Pérez Zeledón, this festival celebrates the tropical fruit known as rambután or “mamón chino.” It features stalls selling fresh fruit, jams, desserts, seeds, and creative rambutan-based dishes."
+        },
+        {
+          "heading": "Activities",
+          "content": "Traditional games for children, folk music performances, gastronomic contests focused on rambután, and artistic presentations celebrating local culture." 
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "Highlights regional agricultural identity, supports local producers, and shares pride in tropical biodiversity." 
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/mamon-1.jpg",
+        "/images/festivals-costa-rica/mamon-2.jpg",
+        "/images/festivals-costa-rica/mamon-3.jpg"
+      ]
+    },
+    {
+      "title": "Feast of San Isidro Labrador",
+      "emoji": "🚜",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "On May 15, the Feast of San Isidro Labrador—or National Farmer’s Day—is observed in San Isidro de Heredia and Pérez Zeledón among other locales. The festivities include parades, masses, rides, games, fireworks, and traditional dances." 
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "A tribute to the agricultural laborer and rural life, with devotional and celebratory elements intertwined." 
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/san-isidro-1.jpg",
+        "/images/festivals-costa-rica/san-isidro-2.jpg",
+        "/images/festivals-costa-rica/san-isidro-3.jpg"
+      ]
+    },
+    {
+      "title": "Expo Pérez Zeledón",
+      "emoji": "🐂",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "Every February in Pérez Zeledón, Expo Pérez Zeledón highlights agricultural exhibitions, cattle and horse shows, rodeos, orchid displays, beauty pageants, and local commerce." 
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "A showcase of regional agribusiness and community pride around the General Valley." 
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/perez-1.jpg",
+        "/images/festivals-costa-rica/perez-2.jpeg",
+        "/images/festivals-costa-rica/perez-3.jpg"
+      ]
+    },   
+    {
+      "title": "Fiestas de Palmares",
+      "emoji": "🤠",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "Held in early January in Palmares de Alajuela, featuring two weeks of festivities including concerts, carnival rides, rodeos, traditional dances, fireworks, and food fairs."
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "A festive start to the year that blends rural tradition with modern entertainment and unites communities across the country."
+        },
+        {
+          "heading": "Activities",
+          "content": "Bullfights (non-lethal), Tope (horse parades), music concerts, rides, local cuisine stalls."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/palmares-1.jpg",
+        "/images/festivals-costa-rica/palmares-2.jpg",
+        "/images/festivals-costa-rica/palmares-3.jpeg"
+      ]
+    },
+    {
+      "title": "Fiesta Patronal de Santo Cristo (Santa Cruz)",
+      "emoji": "⛪",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "Mid-January religious festival in Santa Cruz honoring Santo Cristo de Esquipulas, with rodeos, folk dancing, ox-cart parades, processions and feasting."
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "Combines Catholic devotion with cultural heritage and artisan expression."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/santo-cristo-1.jpg",
+        "/images/festivals-costa-rica/santo-cristo-2.jpg",
+        "/images/festivals-costa-rica/santo-cristo-3.jpg"
+      ]
+    },
+    {
+      "title": "Carnaval de Puntarenas",
+      "emoji": "🌊",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "Late February to early March carnival in the coastal city of Puntarenas, including vibrant parades, concerts, sporting events, beauty pageants and fireworks."
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "A major cultural event on the Pacific coast that showcases local creativity and marine identity."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/puntarenas-1.jpg",
+        "/images/festivals-costa-rica/puntarenas-2.jpg",
+        "/images/festivals-costa-rica/puntarenas-3.webp"
+      ]
+    },
+    {
+      "title": "Día del Boyero",
+      "emoji": "🐂",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "Second Sunday of March in San Antonio de Escazú: a parade and competition of beautifully painted ox-carts, traditional costumes, food, and dancing."
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "Highlights the iconic oxcart as a national symbol and preserves artisan painting traditions."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/boyero-1.jpg",
+        "/images/festivals-costa-rica/boyero-2.jpg",
+        "/images/festivals-costa-rica/boyero-3.jpg"
+      ]
+    },
+    {
+      "title": "International Festival of the Arts (FIA)",
+      "emoji": "🎭",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "Held on the second Sunday of March in San José with theatre, music, dance, visual arts and packed venues."
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "Promotes artistic diversity and creativity at a national level."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/fia-1.jpg",
+        "/images/festivals-costa-rica/fia-2.jpg",
+        "/images/festivals-costa-rica/fia-3.jpg"
+      ]
+    },
+    {
+      "title": "Semana Santa",
+      "emoji": "✝️",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "Holy Week in April with religious processions, masses and national austerity; public transport is limited and alcohol sales are restricted."
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "A deeply religious week observing longstanding Catholic traditions."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/semana-santa-1.jpg",
+        "/images/festivals-costa-rica/semana-santa-2.jpg",
+        "/images/festivals-costa-rica/semana-santa-3.jpg"
+      ]
+    },
+    {
+      "title": "Día de Juan Santamaría",
+      "emoji": "🇨🇷",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "April 11 in Alajuela: parades, marching bands and beauty pageants commemorating national hero Juan Santamaría who died fighting foreign invaders in 1856."
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "A patriotic celebration honoring Costa Rican courage and national identity."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/juan-santamaria-1.jpg",
+        "/images/festivals-costa-rica/juan-santamaria-2.jpg",
+        "/images/festivals-costa-rica/juan-santamaria-3.jpg"
+      ]
+    },
+    {
+      "title": "Fiesta de la Virgen del Mar",
+      "emoji": "⛵",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "Mid-July in Puntarenas: decorated boat processions, regattas, dances, parades, and fireworks honoring the city's patron saint."
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "Fuses maritime traditions with religious devotion."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/virgen-mar-1.jpg",
+        "/images/festivals-costa-rica/virgen-mar-2.jpg",
+        "/images/festivals-costa-rica/virgen-mar-3.webp"
+      ]
+    },
+    {
+      "title": "Día de la Anexión de Guanacaste",
+      "emoji": "🏇",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "July 25 celebrated in Guanacaste with folk dancing, topes (horse parades), bullfights, rodeos and cattle shows."
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "Marks the annexation of Guanacaste province in 1824 and emphasizes regional identity."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/dia-anexion-1.jpg",
+        "/images/festivals-costa-rica/dia-anexion-2.png",
+        "/images/festivals-costa-rica/dia-anexion-3.jpg"
+      ]
+    },
+    {
+      "title": "Virgen de Los Ángeles (Romería)",
+      "emoji": "🙏",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "August 2 national holiday featuring a religious pilgrimage from San José to the Basilica in Cartago, where devotees walk—often on their knees—to honor the patron saint."
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "A deep expression of national faith and humility."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/virgen-angeles-1.jpeg",
+        "/images/festivals-costa-rica/virgen-angeles-2.jpg",
+        "/images/festivals-costa-rica/virgen-angeles-3.jpg"
+      ]
+    },
+    {
+      "title": "Pasada de La Negrita",
+      "emoji": "🎨",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "First weekend of September in Cartago: the return of the Virgin’s image via procession through floral and colored-sawdust carpets, plus cultural and musical activities in the Plaza Mayor."
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "Blends artistic expression with religious devotion and community collaboration." 
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/pasada-negrita-1.jpg",
+        "/images/festivals-costa-rica/pasada-negrita-2.avif",
+        "/images/festivals-costa-rica/pasada-negrita-3.jpg"
+      ]
+    },
+    {
+      "title": "Independencia de Costa Rica",
+      "emoji": "🗽",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "September 15: parades, school ceremonies, street decorations, the torch-relay arriving in Cartago, lantern parades (faroles), and singing of the national anthem."
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "Celebrates the nation’s independence and patriotic values."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/independencia-1.jpg",
+        "/images/festivals-costa-rica/independencia-2.jpg",
+        "/images/festivals-costa-rica/independencia-3.jpg"
+      ]
+    },
+    {
+      "title": "El Desfile de Carretas",
+      "emoji": "🛒",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "Third Sunday of November in San José: one of the largest ox-cart parades in the country featuring elaborately painted oxcarts."
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "Reaffirms the oxcart as a national heritage symbol."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/desfile-carretas-1.jpg",
+        "/images/festivals-costa-rica/desfile-carretas-2.jpg",
+        "/images/festivals-costa-rica/desfile-carretas-3.jpg"
+      ]
+    },
+    {
+      "title": "Festival de la Luz",
+      "emoji": "✨",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "Second Saturday of December in San José: a dazzling Christmas parade with floats, light displays, live music and fireworks starting at Paseo Colón and ending at Plaza de la Democracia."
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "Heralds the holiday season and brings together residents and tourists in festive unity."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/festival-luz-1.jpg",
+        "/images/festivals-costa-rica/festival-luz-2.jpg",
+        "/images/festivals-costa-rica/festival-luz-3.jpg"
+      ]
+    },
+    {
+      "title": "Fiesta de los Negritos (Immaculate Conception)",
+      "emoji": "👶",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "December 8: religious processions and costumed dances honoring the Immaculate Conception."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/fiesta-negritos-1.jpg",
+        "/images/festivals-costa-rica/fiesta-negritos-2.jpg",
+        "/images/festivals-costa-rica/fiesta-negritos-3.jpg"
+      ]
+    },
+    {
+      "title": "Fiesta de la Yegüita",
+      "emoji": "🐴",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "December 12 in Nicoya: parade featuring bullfights, local concerts and fireworks."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/yeguita-1.jpg",
+        "/images/festivals-costa-rica/yeguita-2.jpg",
+        "/images/festivals-costa-rica/yeguita-3.jpg"
+      ]
+    },
+    {
+      "title": "Tope Nacional de Caballos",
+      "emoji": "🐎",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "December 26 in San José: national horse parade showcasing skilled Criollo riders and over 3,000 horses."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/tope-caballos-1.jpg",
+        "/images/festivals-costa-rica/tope-caballos-2.avif",
+        "/images/festivals-costa-rica/tope-caballos-3.jpg"
+      ]
+    },
+    {
+      "title": "Carnaval Nacional (San José)",
+      "emoji": "🪅",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "December 27 in San José: costume celebrations, music, dance in the streets, and a procession of floats."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/carnaval-nacional-1.jpg",
+        "/images/festivals-costa-rica/carnaval-nacional-2.jpg",
+        "/images/festivals-costa-rica/carnaval-nacional-3.jpg"
+      ]
+    },
+    {
+      "title": "Fiesta de Zapote",
+      "emoji": "🎡",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "Late December into early January in the Zapote district: carnival rides, street vendors, traditional bull rodeos (‘a la tica’) and fireworks."
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "A high-energy, community-centered festival celebrating year-end joy."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/fiesta-zapote-1.jpg",
+        "/images/festivals-costa-rica/fiesta-zapote-2.jpg",
+        "/images/festivals-costa-rica/fiesta-zapote-3.jpg"
+      ]
+    },
+    {
+      "title": "Danza de los Diablitos",
+      "emoji": "👹",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "December 31 to January 2 in Boruca: a three-day Indigenous ritual reenacting the battle between devils (Boruca) and the Spanish bull, using elaborate masks symbolizing resistance and identity."
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "An expressive affirmation of Indigenous heritage and resilience in the face of colonization."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/diablitos-1.jpg",
+        "/images/festivals-costa-rica/diablitos-2.jpg",
+        "/images/festivals-costa-rica/diablitos-3.jpg"
+      ]
+    },
+    {
+      "title": "San José Pride (Marcha de la Diversidad)",
+      "emoji": "🏳️‍🌈",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "Annual Pride parade in San José held in June, bringing together over 100,000 people advocating LGBT rights, with public performances and political support."
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "A major expression of inclusion, visibility, and social progress in Costa Rican society."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/pride-1.jpg",
+        "/images/festivals-costa-rica/pride-2.avif",
+        "/images/festivals-costa-rica/pride-3.jpg"
+      ]
+    },
+    {
+      "title": "The BPM Festival (Tamarindo)",
+      "emoji": "🎶",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "Ten-day electronic music festival in Tamarindo held each January, attracting thousands of DJs, industry professionals, and fans worldwide."
+        },
+        {
+          "heading": "Cultural Significance",
+          "content": "Connects Costa Rica to the global electronic music scene and promotes cultural tourism."
+        }
+      ],
+      "images": [
+        "/images/festivals-costa-rica/bpm-1.jpg",
+        "/images/festivals-costa-rica/bpm-2.jpg",
+        "/images/festivals-costa-rica/bpm-3.jpg"
+      ]
+    }
+  ],
+  "gallery": [
+    "/images/festivals-costa-rica/gallery-1.jpg",
+    "/images/festivals-costa-rica/gallery-2.jpg",
+    "/images/festivals-costa-rica/gallery-3.jpg",
+    "/images/festivals-costa-rica/gallery-4.jpg",
+    "/images/festivals-costa-rica/gallery-5.jpeg",
+    "/images/festivals-costa-rica/gallery-6.png",
+    "/images/festivals-costa-rica/gallery-7.jpg",
+    "/images/festivals-costa-rica/gallery-8.jpg"
+  ]
+}
