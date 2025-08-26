@@ -1,0 +1,375 @@
+{
+  "slug": "costa-rica-national-symbols",
+  "title": "Costa Rican National Symbols",
+  "emoji": "🇨🇷",
+  "shortDescription": "Learn about Costa Rica’s national symbols, their history, and cultural, natural, and historical significance.",
+  "longDescription": "Costa Rica’s national symbols represent the country’s identity, history, and natural richness. From the flag and anthem to the marimba and Guaria Morada, each symbol embodies values like freedom, peace, biodiversity, and cultural heritage. These symbols provide a gateway to understanding Costa Rica’s traditions, environment, and identity while fostering respect for diversity and promoting a sense of belonging. Exploring them allows students to connect with Costa Rica’s roots, appreciate its natural wonders, and celebrate its living culture.",
+  "cardImage": "/images/national-symbols/card.jpg",
+  "wideImage": "/images/national-symbols/wide.jpg",
+  "items": [
+    {
+      "title": "National Flag of Costa Rica",
+      "emoji": "🚩",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Adopted in 1848, the flag symbolizes independence, unity, and freedom. Blue represents the sky, perseverance, and ideals; white symbolizes peace and wisdom; and red stands for the blood shed for liberty and the love for the homeland."
+        },
+        {
+          "heading": "Type",
+          "content": "Patriotic Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/flag-1.webp",
+        "/images/national-symbols/flag-2.jpg"
+      ]
+    },
+    {
+      "title": "National Coat of Arms",
+      "emoji": "🛡️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Created in 1848, the coat of arms represents Costa Rica’s geography and history: three volcanoes, two oceans, merchant ships, a rising sun, and seven stars for the provinces."
+        },
+        {
+          "heading": "Type",
+          "content": "Patriotic Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/coat-1.svg",
+        "/images/national-symbols/coat-2.jpg"
+      ]
+    },
+    {
+      "title": "National Anthem",
+      "emoji": "🎵",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Declared in 1949, the anthem celebrates peace, freedom, and hard work as central values of Costa Rica."
+        },
+        {
+          "heading": "Type",
+          "content": "Patriotic Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/anthem-1.jpg",
+        "/images/national-symbols/anthem-2.jpg"
+      ]
+    },
+    {
+      "title": "Independence Torch",
+      "emoji": "🔥",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Declared in 2005, the torch symbolizes freedom and commemorates the country’s independence. Students carry it every September across the nation."
+        },
+        {
+          "heading": "Type",
+          "content": "Patriotic Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/torch-1.jpg",
+        "/images/national-symbols/torch-2.jpeg"
+      ]
+    },
+    {
+      "title": "Guaria Morada",
+      "emoji": "🌸",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Declared the national flower in 1939, this orchid represents Costa Rica’s natural beauty and cultural traditions."
+        },
+        {
+          "heading": "Type",
+          "content": "Natural Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/guaria-1.jpg",
+         "/images/national-symbols/guaria-2.jpg"
+      ]
+    },
+    {
+      "title": "Guanacaste Tree",
+      "emoji": "🌳",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Declared in 1959, the Guanacaste tree symbolizes protection, abundance, and unity thanks to its wide canopy and ecological importance."
+        },
+        {
+          "heading": "Type",
+          "content": "Natural Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/guanacaste-1.jpg",
+        "/images/national-symbols/guanacaste-2.webp",
+        "/images/national-symbols/guanacaste-3.jpg"
+      ]
+    },
+    {
+      "title": "Yigüirro",
+      "emoji": "🐦",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Declared the national bird in 1977, the yigüirro is admired for its melodic song, traditionally linked to the start of the rainy season."
+        },
+        {
+          "heading": "Type",
+          "content": "Natural Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/yiguirro-1.jpg",
+        "/images/national-symbols/yiguirro-2.jpg",
+        "/images/national-symbols/yiguirro-3.jpg"
+      ]
+    },
+    {
+      "title": "White-Tailed Deer",
+      "emoji": "🦌",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Declared in 1995, the deer represents Costa Rica’s commitment to wildlife protection and conservation."
+        },
+        {
+          "heading": "Type",
+          "content": "Natural Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/deer-1.jpg",
+        "/images/national-symbols/deer-2.webp",
+        "/images/national-symbols/deer-3.jpg"
+      ]
+    },
+    {
+      "title": "Two- and Three-Toed Sloths",
+      "emoji": "🦥",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Declared in 2021, sloths symbolize biodiversity and sustainable tourism in Costa Rica."
+        },
+        {
+          "heading": "Type",
+          "content": "Natural Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/sloth-1.jpeg",
+        "/images/national-symbols/sloth-2.jpg",
+        "/images/national-symbols/sloth-3.jpg"
+      ]
+    },
+    {
+      "title": "Crestones of Chirripó",
+      "emoji": "⛰️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Recognized in 2011, these rock formations in Chirripó National Park symbolize natural richness and are part of UNESCO’s World Heritage."
+        },
+        {
+          "heading": "Type",
+          "content": "Natural Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/crestones-1.jpg",
+        "/images/national-symbols/crestones-2.jpg"
+      ]
+    },
+    {
+      "title": "Typical Oxcart",
+      "emoji": "🛞",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Declared in 1988, the oxcart symbolizes work, humility, and Costa Rica’s agricultural history."
+        },
+        {
+          "heading": "Type",
+          "content": "Cultural Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/oxcart-1.webp",
+        "/images/national-symbols/oxcart-2.webp",
+        "/images/national-symbols/oxcart-3.jpg",
+        "/images/national-symbols/oxcart-4.jpg",
+        "/images/national-symbols/oxcart-5.jpg",
+        "/images/national-symbols/oxcart-6.jpg"
+      ]
+    },
+    {
+      "title": "Marimba",
+      "emoji": "🎹",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Declared the national instrument in 1996, the marimba represents Costa Rica’s musical heritage and festivities."
+        },
+        {
+          "heading": "Type",
+          "content": "Cultural Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/marimba-1.jpg",
+        "/images/national-symbols/marimba-2.jpg",
+        "/images/national-symbols/marimba-3.jpg"
+      ]
+    },
+    {
+      "title": "Traditional Masks",
+      "emoji": "😈",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Declared in 2022, traditional masks are used in festivals and represent Costa Rica’s folklore and cultural identity."
+        },
+        {
+          "heading": "Type",
+          "content": "Cultural Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/mask-1.jpg",
+        "/images/national-symbols/mask-2.webp"
+      ]
+    },
+    {
+      "title": "Punto Guanacasteco",
+      "emoji": "💃",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Declared in 2000, this traditional dance and music style reflects Guanacaste’s culture and Costa Rican joy."
+        },
+        {
+          "heading": "Type",
+          "content": "Cultural Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/punto-1.jpg",
+        "/images/national-symbols/punto-2.webp"
+      ]
+    },
+    {
+      "title": "Coffee of Costa Rica",
+      "emoji": "☕",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Declared in 2020, coffee symbolizes Costa Rica’s economy, history, and traditions. Known as 'the golden bean', it played a central role in national development."
+        },
+        {
+          "heading": "Type",
+          "content": "Cultural Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/coffee-1.jpg",
+        "/images/national-symbols/coffee-2.webp",
+        "/images/national-symbols/coffee-3.webp"
+      ]
+    },
+    {
+      "title": "Pre-Columbian Stone Spheres",
+      "emoji": "⚪",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Declared in 2014, these spheres represent the pre-Columbian heritage of Costa Rica and are UNESCO World Heritage."
+        },
+        {
+          "heading": "Type",
+          "content": "Archaeological Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/spheres-1.jpg",
+        "/images/national-symbols/spheres-2.jpg"
+      ]
+    },
+    {
+      "title": "Caribbean Manatee",
+      "emoji": "🐋",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Declared in 2014, the manatee symbolizes marine biodiversity and is protected as an endangered species."
+        },
+        {
+          "heading": "Type",
+          "content": "Fauna Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/manatee-1.jpg",
+        "/images/national-symbols/manatee-2.jpg",
+        "/images/national-symbols/manatee-3.jpg"
+      ]
+    },
+    {
+      "title": "Morpho Butterfly",
+      "emoji": "🦋",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Declared in 2017, this blue butterfly represents biodiversity and is one of Costa Rica’s most iconic species."
+        },
+        {
+          "heading": "Type",
+          "content": "Fauna Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/butterfly-1.webp",
+        "/images/national-symbols/butterfly-2.jpg",
+        "/images/national-symbols/butterfly-3.jpg"
+      ]
+    },
+    {
+      "title": "National Theater of Costa Rica",
+      "emoji": "🎭",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Declared in 2018, this neoclassical theater represents Costa Rica’s cultural and artistic development since its inauguration in 1897."
+        },
+        {
+          "heading": "Type",
+          "content": "Historical Symbol"
+        }
+      ],
+      "images": [
+        "/images/national-symbols/theater-1.jpg",
+        "/images/national-symbols/theater-2.jpg"
+      ]
+    }
+  ],
+  "gallery": [
+    "/images/national-symbols/gallery-1.webp",
+    "/images/national-symbols/gallery-2.webp",
+    "/images/national-symbols/gallery-3.jpeg",
+    "/images/national-symbols/gallery-4.jpg",
+    "/images/national-symbols/gallery-5.jpg",
+    "/images/national-symbols/gallery-6.jpg",
+    "/images/national-symbols/gallery-7.webp",
+    "/images/national-symbols/gallery-8.jpg"
+  ]
+}
