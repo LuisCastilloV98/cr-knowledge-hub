@@ -1,0 +1,214 @@
+{
+  "slug": "indigenous-art-costa-rica",
+  "title": "Costa Rican Indigenous Art",
+  "emoji": "🎭",
+  "shortDescription": "Discover the diverse artistic traditions of Costa Rica’s indigenous peoples.",
+  "longDescription": "Costa Rica is home to eight officially recognized indigenous groups: Boruca, Bribri, Cabécar, Maleku, Huetar, Chorotega, Teribe (Térraba), and Ngäbe. Each community has preserved a unique cultural identity through art, ritual, and craftsmanship. Their creations—wooden masks, ritual dances, woven baskets, textiles, ceramics, music, and oral storytelling—reflect not only aesthetic skill but also cosmology, spirituality, and social life. Art has served as a medium of resilience against colonization, a way to transmit knowledge between generations, and a bridge between humans and nature. From the famous Boruca ‘Dance of the Little Devils’ to the sophisticated Chorotega pottery and the sacred Bribri weaving traditions, Costa Rican indigenous art represents a living heritage that continues to inspire both local communities and visitors worldwide.",
+  "cardImage": "/images/indigenous-art/card.webp",
+  "wideImage": "/images/indigenous-art/wide.jpg",
+  "items": [
+    {
+      "title": "Boruca Wooden Masks",
+      "emoji": "😈",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Hand-carved from balsa or cedar, Boruca masks are brightly painted with animal or devil faces. They symbolize ancestral spirits and cultural identity."
+        },
+        {
+          "heading": "Symbolism",
+          "content": "Masks embody resistance against Spanish conquest and serve as protection for the community."
+        },
+        {
+          "heading": "Technique",
+          "content": "Made with chisels, sanded, and painted with natural or acrylic pigments."
+        }
+      ],
+      "images": [
+        "/images/indigenous-art/boruca-mask-1.jpg",
+        "/images/indigenous-art/boruca-mask-2.webp",
+        "/images/indigenous-art/boruca-mask-3.jpg"
+      ]
+    },
+    {
+      "title": "Dance of the Little Devils (Danza de los Diablitos)",
+      "emoji": "💃",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "A three-day ritual (Dec 31–Jan 2) reenacting the fight between Boruca ‘devils’ and the Spanish bull, symbolizing indigenous resistance."
+        },
+        {
+          "heading": "Characters",
+          "content": "The devils wear masks; the bull (toro) represents the Spanish conquerors. Music with drums, flutes, and conch shells accompanies the play."
+        },
+        {
+          "heading": "Cultural Recognition",
+          "content": "Declared Intangible Cultural Heritage of Costa Rica in 2017."
+        }
+      ],
+      "images": [
+        "/images/indigenous-art/dance-diablitos-1.jpg",
+        "/images/indigenous-art/dance-diablitos-2.jpg",
+        "/images/indigenous-art/dance-diablitos-3.jpg"
+      ]
+    },
+    {
+      "title": "Bribri Basketry",
+      "emoji": "🧺",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Bribri women create finely woven baskets using natural fibers such as bejuco and chonta palm."
+        },
+        {
+          "heading": "Symbolism",
+          "content": "Baskets are connected to women’s role as guardians of knowledge and daily sustenance."
+        },
+        {
+          "heading": "Materials",
+          "content": "Colored with natural dyes: achiote (orange), nance (red-brown), and other local plants."
+        }
+      ],
+      "images": [
+        "/images/indigenous-art/bribri-basket-1.webp",
+        "/images/indigenous-art/bribri-basket-2.jpg",
+        "/images/indigenous-art/bribri-basket-3.jpg"
+      ]
+    },
+    {
+      "title": "Cabécar Textiles",
+      "emoji": "🧵",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Cabécar communities weave textiles and hammocks using cotton and plant fibers."
+        },
+        {
+          "heading": "Cultural Role",
+          "content": "Textiles are both utilitarian and ceremonial, representing family and clan ties."
+        }
+      ],
+      "images": [
+        "/images/indigenous-art/cabecar-textile-1.jpg",
+        "/images/indigenous-art/cabecar-textile-2.jpg",
+        "/images/indigenous-art/cabecar-textile-3.jpg"
+      ]
+    },
+    {
+      "title": "Chorotega Pottery",
+      "emoji": "🏺",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Chorotega artisans from Guanacaste are famous for pre-Columbian style ceramics with geometric and animal designs."
+        },
+        {
+          "heading": "Techniques",
+          "content": "Pottery is hand-shaped, burnished, and decorated with slips in red, black, and cream."
+        },
+        {
+          "heading": "Cultural Value",
+          "content": "Used for rituals, cooking, and trade since ancient times; still produced in Nicoya today."
+        }
+      ],
+      "images": [
+        "/images/indigenous-art/chorotega-pottery-1.jpg",
+        "/images/indigenous-art/chorotega-pottery-2.jpg",
+        "/images/indigenous-art/chorotega-pottery-3.jpg",
+        "/images/indigenous-art/chorotega-pottery-4.jpg"
+      ]
+    },
+    {
+      "title": "Maleku Ritual Paintings and Drums",
+      "emoji": "🥁",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "The Maleku, from northern Alajuela, are known for body painting, symbolic drawings on gourds, and ceremonial drums."
+        },
+        {
+          "heading": "Ritual Use",
+          "content": "Drums accompany ceremonies to honor spirits and nature."
+        },
+        {
+          "heading": "Symbolism",
+          "content": "Art reflects the Maleku cosmology and the importance of rivers and forests."
+        }
+      ],
+      "images": [
+        "/images/indigenous-art/maleku-drum-1.webp",
+        "/images/indigenous-art/maleku-drum-2.webp",
+        "/images/indigenous-art/maleku-drum-3.jpg"
+      ]
+    },
+    {
+      "title": "Huetar Stone Spheres and Crafts",
+      "emoji": "⚪",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "The Huetar people are associated with the enigmatic stone spheres of Diquís, declared UNESCO World Heritage."
+        },
+        {
+          "heading": "Cultural Value",
+          "content": "Spheres may have represented power, astronomy, or ceremonial centers."
+        }
+      ],
+      "images": [
+        "/images/indigenous-art/stone-sphere-1.jpg",
+        "/images/indigenous-art/stone-sphere-2.jpg",
+        "/images/indigenous-art/stone-sphere-3.avif",
+        "/images/indigenous-art/stone-sphere-4.jpg"
+      ]
+    },
+    {
+      "title": "Ngäbe Beadwork and Clothing",
+      "emoji": "👗",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Ngäbe women create colorful bead necklaces and traditional dresses called naguas."
+        },
+        {
+          "heading": "Cultural Role",
+          "content": "Dresses represent community identity and are worn in rituals and daily life."
+        }
+      ],
+      "images": [
+        "/images/indigenous-art/ngabe-dress-1.jpg",
+        "/images/indigenous-art/ngabe-dress-2.jpg"
+      ]
+    },
+    {
+      "title": "Oral Tradition and Music",
+      "emoji": "🎶",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "All indigenous groups preserve oral traditions—myths, legends, songs—transmitted across generations."
+        },
+        {
+          "heading": "Instruments",
+          "content": "Flutes, maracas, drums, and conch shells accompany ceremonies."
+        }
+      ],
+      "images": [
+        "/images/indigenous-art/music-1.jpg",
+        "/images/indigenous-art/music-2.jpg",
+        "/images/indigenous-art/music-3.jpg",
+        "/images/indigenous-art/music-4.jpg"
+      ]
+    }
+  ],
+  "gallery": [
+    "/images/indigenous-art/gallery-1.avif",
+    "/images/indigenous-art/gallery-2.jpg",
+    "/images/indigenous-art/gallery-3.jpg",
+    "/images/indigenous-art/gallery-4.jpg",
+    "/images/indigenous-art/gallery-5.jpg",
+    "/images/indigenous-art/gallery-6.jpg",
+    "/images/indigenous-art/gallery-7.webp",
+    "/images/indigenous-art/gallery-8.jpg"
+  ]
+}
