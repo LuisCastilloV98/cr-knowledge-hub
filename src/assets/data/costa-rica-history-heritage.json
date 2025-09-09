@@ -1,0 +1,748 @@
+{
+  "slug": "costa-rica-history-heritage",
+  "title": "Costa Rican History & Heritage",
+  "emoji": "🏛️",
+  "shortDescription": "A journey through Costa Rica’s past—from indigenous roots to modern democracy and conservation.",
+  "longDescription": "Costa Rica’s story spans millennia: indigenous nations shaped by trade, astronomy, and ceramics; a sparse, marginal colony that forged smallholder identities; independence, coffee wealth, railroads, migrations from the Caribbean and China, and hard-won democratic reforms. The twentieth century saw civil war, abolition of the army, universal education and health care, and a pioneering conservation ethos. These entries highlight people, places, laws, and traditions that define the country’s social fabric and memory.",
+  "cardImage": "/images/history/card.jpg",
+  "wideImage": "/images/history/wide.webp",
+  "items": [
+    {
+      "title": "Cabécar People",
+      "emoji": "🏔️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "One of the largest indigenous groups, guardians of Talamanca’s mountains and rivers."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Resisted colonial control via remote settlements and rich spiritual traditions tied to nature."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Language and worldview inform conservation and intercultural education today."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Community-led cultural maps, language revitalization, and traditional medicine projects."
+        }
+      ],
+      "images": [
+        "/images/history/cab-car-people-1.jpg",
+        "/images/history/cab-car-people-2.jpg",
+        "/images/history/cab-car-people-3.jpg",
+        "/images/history/cab-car-people-4.jpg"
+      ]
+    },
+    {
+      "title": "Bribri People",
+      "emoji": "🌿",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Indigenous nation along the Talamanca range and Sixaola basin."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Economy based on cacao, plantains, and forest products; matrilineal clans and sacred houses."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Cultural tourism and cacao cooperatives strengthen autonomy and livelihoods."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Study clan structures, symbolism of the conical house, and river guardianship."
+        }
+      ],
+      "images": [
+        "/images/history/bribri-people-1.jpg",
+        "/images/history/bribri-people-2.jpg",
+        "/images/history/bribri-people-3.jpg",
+        "/images/history/bribri-people-4.jpg"
+      ]
+    },
+    {
+      "title": "Boruca People",
+      "emoji": "🎭",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Renowned for carved and painted masks used in the 'Juego de los Diablitos'."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Festival reenacts resistance to Spanish conquest through dance and satire."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Mask art sustains identity and provides income for artisans."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Explore workshops, museum collections, and December festivities."
+        }
+      ],
+      "images": [
+        "/images/history/boruca-people-1.jpg",
+        "/images/history/boruca-people-2.jpg",
+        "/images/history/boruca-people-3.jpg",
+        "/images/history/boruca-people-4.jpg"
+      ]
+    },
+    {
+      "title": "Chorotega Heritage",
+      "emoji": "🏺",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Northern Pacific culture known for ceramics and corn-based agriculture."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Influences visible in Guanacaste pottery styles and place names."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Handicrafts and cuisine link households to pre-Hispanic traditions."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Visit artisan towns and archaeological sites of the Tempisque basin."
+        }
+      ],
+      "images": [
+        "/images/history/chorotega-heritage-1.jpg",
+        "/images/history/chorotega-heritage-2.webp",
+        "/images/history/chorotega-heritage-3.jpg",
+        "/images/history/chorotega-heritage-4.webp"
+      ]
+    },
+    {
+      "title": "Guayabo National Monument",
+      "emoji": "🗿",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Largest pre-Columbian site in Costa Rica with aqueducts, mounds, and causeways."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Flourished ~1000 BCE–1400 CE as a ceremonial and regional hub."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Engineering marvels reveal hydrologic knowledge and social organization."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Interpretive trails explain stonework, petroglyphs, and water systems."
+        }
+      ],
+      "images": [
+        "/images/history/guayabo-national-monument-1.jpg",
+        "/images/history/guayabo-national-monument-2.jpg",
+        "/images/history/guayabo-national-monument-3.jpg",
+        "/images/history/guayabo-national-monument-4.jpg"
+      ]
+    },
+    {
+      "title": "Spanish Conquest of Costa Rica",
+      "emoji": "⚔️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "A difficult frontier with scattered settlements and limited mineral wealth."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Low colonial investment fostered small farms and relative social mobility."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Set the stage for later emphasis on education and smallholder democracy."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Compare with neighboring colonies to understand divergent outcomes."
+        }
+      ],
+      "images": [
+        "/images/history/spanish-conquest-of-costa-rica-1.jpg",
+        "/images/history/spanish-conquest-of-costa-rica-2.jpg",
+        "/images/history/spanish-conquest-of-costa-rica-3.jpg",
+        "/images/history/spanish-conquest-of-costa-rica-4.jpg"
+      ]
+    },
+    {
+      "title": "Cartago, Colonial Capital",
+      "emoji": "⛪",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Religious and administrative heart until the 19th century."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Earthquakes repeatedly devastated the city, shaping architecture and devotion."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Ruins and basilicas anchor pilgrimages and national memory."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Explore Santiago Apóstol ruins and local museums."
+        }
+      ],
+      "images": [
+        "/images/history/cartago-colonial-capital-1.jpg",
+        "/images/history/cartago-colonial-capital-2.jpg",
+        "/images/history/cartago-colonial-capital-3.webp",
+        "/images/history/cartago-colonial-capital-4.webp"
+      ]
+    },
+    {
+      "title": "Our Lady of the Angels & Romería",
+      "emoji": "🕊️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Marian devotion centered on the 'Negrita' image found in 1635."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Annual pilgrimage draws hundreds of thousands to Cartago."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Symbol of unity, gratitude, and social charity."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Health services and volunteers support the event each August."
+        }
+      ],
+      "images": [
+        "/images/history/our-lady-of-the-angels-romer-a-1.jpg",
+        "/images/history/our-lady-of-the-angels-romer-a-2.jpg",
+        "/images/history/our-lady-of-the-angels-romer-a-3.webp",
+        "/images/history/our-lady-of-the-angels-romer-a-4.jpg"
+      ]
+    },
+    {
+      "title": "Independence of 1821",
+      "emoji": "📜",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Central America declared independence from Spain on Sept 15, 1821."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Local towns debated annexation and formed juntas; a peaceful transition."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Parades, flags, and the torch relay commemorate civic culture."
+        },
+        {
+          "heading": "Learn More",
+          "content": "School activities emphasize rights, duties, and regional ties."
+        }
+      ],
+      "images": [
+        "/images/history/independence-of-1821-1.jpg",
+        "/images/history/independence-of-1821-2.jpg",
+        "/images/history/independence-of-1821-3.jpg",
+        "/images/history/independence-of-1821-4.jpg"
+      ]
+    },
+    {
+      "title": "Annexation of Nicoya (1824)",
+      "emoji": "🤝",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "The Partido de Nicoya joined Costa Rica by popular will."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Strengthened ties to Guanacaste’s cattle culture and Pacific ports."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "“De la patria por nuestra voluntad” is still the regional motto."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Festivals in July celebrate identity and music of the plains."
+        }
+      ],
+      "images": [
+        "/images/history/annexation-of-nicoya-1824-1.jpg",
+        "/images/history/annexation-of-nicoya-1824-2.jpg",
+        "/images/history/annexation-of-nicoya-1824-3.jpg",
+        "/images/history/annexation-of-nicoya-1824-4.jpg"
+      ]
+    },
+    {
+      "title": "Coffee Boom (Grano de Oro)",
+      "emoji": "☕",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "19th‑century arabica exports financed roads, education, and institutions."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Oxcarts carried beans to Pacific ports; elites built the National Theatre."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Created both prosperity and inequality, shaping politics and class."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Heritage tours explain milling, export routes, and oxcart art."
+        }
+      ],
+      "images": [
+        "/images/history/coffee-boom-grano-de-oro-1.jpg",
+        "/images/history/coffee-boom-grano-de-oro-2.jpg",
+        "/images/history/coffee-boom-grano-de-oro-3.jpg",
+        "/images/history/coffee-boom-grano-de-oro-4.jpg"
+      ]
+    },
+    {
+      "title": "National Theatre (1897)",
+      "emoji": "🎭",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Neoclassical landmark funded partly by a coffee export tax."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Hosted opera and civic events, symbolizing aspirations to Europe."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Still a premier venue; frescoes depict agricultural labor and trade."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Guided visits reveal artwork, acoustics, and stagecraft."
+        }
+      ],
+      "images": [
+        "/images/history/national-theatre-1897-1.jpg",
+        "/images/history/national-theatre-1897-2.jpg",
+        "/images/history/national-theatre-1897-3.jpg",
+        "/images/history/national-theatre-1897-4.jpg"
+      ]
+    },
+    {
+      "title": "Atlantic Railroad & Limón",
+      "emoji": "🚂",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Railway linked the Central Valley to the Caribbean in the late 1800s."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Thousands of Afro‑Caribbean and Chinese workers settled in Limón."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Diverse communities reshaped cuisine, music, and labor rights."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Learn about Minor C. Keith, banana trade, and port history."
+        }
+      ],
+      "images": [
+        "/images/history/atlantic-railroad-lim-n-1.jpg",
+        "/images/history/atlantic-railroad-lim-n-2.jpg",
+        "/images/history/atlantic-railroad-lim-n-3.jpg",
+        "/images/history/atlantic-railroad-lim-n-4.jpg"
+      ]
+    },
+    {
+      "title": "CCSS – Social Security (1941)",
+      "emoji": "🏥",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Created to expand health care and worker protections."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Hospitals, clinics, and insurance transformed public health metrics."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "A cornerstone of social solidarity and national pride."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Trace milestones: vaccines, rural clinics, and universal coverage."
+        }
+      ],
+      "images": [
+        "/images/history/ccss-social-security-1941-1.jpg",
+        "/images/history/ccss-social-security-1941-2.jpg",
+        "/images/history/ccss-social-security-1941-3.jpg",
+        "/images/history/ccss-social-security-1941-4.jpg"
+      ]
+    },
+    {
+      "title": "1948 Civil War",
+      "emoji": "🔥",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Brief but decisive conflict after a contested election."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Led by José Figueres, it resulted in political reforms and a new constitution."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Shaped modern institutions and a strong electoral system."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Museums and documentaries preserve testimonies and analysis."
+        }
+      ],
+      "images": [
+        "/images/history/1948-civil-war-1.jpg",
+        "/images/history/1948-civil-war-2.jpg",
+        "/images/history/1948-civil-war-3.jpg",
+        "/images/history/1948-civil-war-4.jpg"
+      ]
+    },
+    {
+      "title": "Abolition of the Army (1948)",
+      "emoji": "🕊️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Costa Rica dissolved its standing army, reallocating funds to education and health."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "An uncommon choice in the region that framed a peace identity."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Influences foreign policy and internal budgeting to this day."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Schools study the keys in the National Museum where barracks once stood."
+        }
+      ],
+      "images": [
+        "/images/history/abolition-of-the-army-1948-1.jpg",
+        "/images/history/abolition-of-the-army-1948-2.jpg",
+        "/images/history/abolition-of-the-army-1948-3.jpg",
+        "/images/history/abolition-of-the-army-1948-4.jpg"
+      ]
+    },
+    {
+      "title": "Women’s Suffrage (1949)",
+      "emoji": "👩‍⚖️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Constitution granted women the right to vote and hold office."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Built on decades of activism by educators and civic leaders."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Opened pathways for gender equality and social programs."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Profiles of pioneers like Ángela Acuña Braun enrich classes."
+        }
+      ],
+      "images": [
+        "/images/history/women-s-suffrage-1949-1.jpg",
+        "/images/history/women-s-suffrage-1949-2.jpg",
+        "/images/history/women-s-suffrage-1949-3.jpg",
+        "/images/history/women-s-suffrage-1949-4.jpg"
+      ]
+    },
+    {
+      "title": "ICE – Electrification & Telecom",
+      "emoji": "⚡",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Instituto Costarricense de Electricidad expanded power and communications."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Hydropower and later geothermal reduced fossil dependence."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Enabled rural development, education, and industry."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Tours at dams and geothermal plants explain renewable grids."
+        }
+      ],
+      "images": [
+        "/images/history/ice-electrification-telecom-1.jpg",
+        "/images/history/ice-electrification-telecom-2.jpg",
+        "/images/history/ice-electrification-telecom-3.jpg",
+        "/images/history/ice-electrification-telecom-4.jpg"
+      ]
+    },
+    {
+      "title": "Creation of National Parks (1970s)",
+      "emoji": "🌳",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Leaders and scientists established an extensive protected‑area system."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Innovations included biological stations, ranger training, and corridors."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Became a global model for conservation and ecotourism."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Case studies: Santa Rosa, Corcovado, Tortuguero, and ACG."
+        }
+      ],
+      "images": [
+        "/images/history/creation-of-national-parks-1970s-1.jpg",
+        "/images/history/creation-of-national-parks-1970s-2.jpg",
+        "/images/history/creation-of-national-parks-1970s-3.jpg",
+        "/images/history/creation-of-national-parks-1970s-4.jpg"
+      ]
+    },
+    {
+      "title": "Pre‑Columbian Stone Spheres of Diquís",
+      "emoji": "⚫",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Mysterious, finely carved stone spheres found in the southern Pacific lowlands."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Likely markers of power and cosmology within complex chiefdoms."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "UNESCO World Heritage status protects sites and museums."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Archaeology reveals manufacturing methods and alignments."
+        }
+      ],
+      "images": [
+        "/images/history/pre-columbian-stone-spheres-of-diqu-s-1.jpg",
+        "/images/history/pre-columbian-stone-spheres-of-diqu-s-2.jpg",
+        "/images/history/pre-columbian-stone-spheres-of-diqu-s-3.jpg",
+        "/images/history/pre-columbian-stone-spheres-of-diqu-s-4.jpg"
+      ]
+    },
+    {
+      "title": "Traditional Oxcart & Boyero Culture",
+      "emoji": "🛞",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Painted oxcarts symbolize rural identity and craftsmanship."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Parades in San Antonio de Escazú honor boyeros (ox‑drivers)."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "UNESCO recognition preserves designs and techniques."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Workshops teach wheel geometry, paint patterns, and yokes."
+        }
+      ],
+      "images": [
+        "/images/history/traditional-oxcart-boyero-culture-1.jpg",
+        "/images/history/traditional-oxcart-boyero-culture-2.jpg",
+        "/images/history/traditional-oxcart-boyero-culture-3.jpg",
+        "/images/history/traditional-oxcart-boyero-culture-4.jpg"
+      ]
+    },
+    {
+      "title": "Afro‑Costa Rican Heritage in Limón",
+      "emoji": "🎶",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Descendants of Jamaican and Barbadian migrants forged unique culture."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Calypso, rice & beans with coconut, and Afro‑Protestant churches stand out."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Artists like Walter Ferguson embody musical legacy."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Cultural routes visit neighborhoods, markets, and festivals."
+        }
+      ],
+      "images": [
+        "/images/history/afro-costa-rican-heritage-in-lim-n-1.jpg",
+        "/images/history/afro-costa-rican-heritage-in-lim-n-2.jpg",
+        "/images/history/afro-costa-rican-heritage-in-lim-n-3.jpg",
+        "/images/history/afro-costa-rican-heritage-in-lim-n-4.jpg"
+      ]
+    },
+    {
+      "title": "Chinese Immigration",
+      "emoji": "🥟",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Arrived during railroad construction and later waves."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Opened groceries and restaurants, integrating into towns nationwide."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Cuisine and entrepreneurship diversified urban life."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Family associations keep archives and traditions alive."
+        }
+      ],
+      "images": [
+        "/images/history/chinese-immigration-1.jpg",
+        "/images/history/chinese-immigration-2.jpg",
+        "/images/history/chinese-immigration-3.jpg"
+      ]
+    },
+    {
+      "title": "Arias Peace Plan & Nobel (1987)",
+      "emoji": "🕊️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Diplomacy sought to end Central American wars through elections and amnesties."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Costa Rica positioned itself as mediator and advocate for human rights."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Oscar Arias received the Nobel Peace Prize for leadership."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Debates continue on neutrality and regional integration."
+        }
+      ],
+      "images": [
+        "/images/history/arias-peace-plan-nobel-1987-1.jpg",
+        "/images/history/arias-peace-plan-nobel-1987-2.jpg",
+        "/images/history/arias-peace-plan-nobel-1987-3.jpg",
+        "/images/history/arias-peace-plan-nobel-1987-4.jpg"
+      ]
+    },
+    {
+      "title": "Renewable Energy Milestones",
+      "emoji": "🔋",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Years with near‑100% renewable electricity showcased hydropower, wind, and geothermal."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Policies incentivized clean grids and research partnerships."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Environmental identity intertwines with technological innovation."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Field trips visit wind farms and volcanic geothermal wells."
+        }
+      ],
+      "images": [
+        "/images/history/renewable-energy-milestones-1.jpg",
+        "/images/history/renewable-energy-milestones-2.jpg",
+        "/images/history/renewable-energy-milestones-3.jpg",
+        "/images/history/renewable-energy-milestones-4.jpg"
+      ]
+    },
+    {
+      "title": "1991 Limón Earthquake",
+      "emoji": "🌏",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Powerful quake reshaped infrastructure and emergency planning."
+        },
+        {
+          "heading": "Historical Context",
+          "content": "Revealed vulnerabilities in Caribbean coast communities."
+        },
+        {
+          "heading": "Legacy & Impact",
+          "content": "Improved building codes and disaster education in schools."
+        },
+        {
+          "heading": "Learn More",
+          "content": "Seismology exhibits explain subduction and local faults."
+        }
+      ],
+      "images": [
+        "/images/history/1991-lim-n-earthquake-1.jpg",
+        "/images/history/1991-lim-n-earthquake-2.jpg",
+        "/images/history/1991-lim-n-earthquake-3.jpg",
+        "/images/history/1991-lim-n-earthquake-4.jpg"
+      ]
+    }
+  ],
+  "gallery": [
+    "/images/history/gallery-1.jpg",
+    "/images/history/gallery-2.jpg",
+    "/images/history/gallery-3.jpg",
+    "/images/history/gallery-4.jpg",
+    "/images/history/gallery-5.jpg",
+    "/images/history/gallery-6.jpg",
+    "/images/history/gallery-7.jpg",
+    "/images/history/gallery-8.jpg"
+  ]
+}

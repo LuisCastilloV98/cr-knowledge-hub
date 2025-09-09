@@ -63,6 +63,30 @@ export default function Home(){
           </div>
         )}
       </section>
+
+      {/* Open Source Section */}
+      <section className={`neu-surface ${styles.openSource}`}>
+        <h2 className={styles.openSourceTitle}>Open Source Project 🚀</h2>
+        <p className={styles.openSourceDesc}>
+          <strong>CR Knowledge Hub</strong> is an open-source educational platform built with React, TypeScript, and Vite.
+          Developed by <span className={styles.author}>Luis José Castillo Valverde</span>, a student of English Teaching.
+          Contributions, issues, and ideas are welcome.
+        </p>
+
+        <a
+          href="https://github.com/LuisCastilloV98/cr-knowledge-hub"
+          target="_blank"
+          rel="noopener noreferrer"
+          className={styles.githubButton}
+          aria-label="Open GitHub repository for CR Knowledge Hub"
+        >
+          View on GitHub
+        </a>
+
+        <p className={styles.repoNote}>
+          The project is available at <a href="https://github.com/LuisCastilloV98/cr-knowledge-hub" target="_blank" rel="noopener noreferrer">github.com/LuisCastilloV98/cr-knowledge-hub</a> for contributions and more.
+        </p>
+      </section>  
     </main>
   );
 }

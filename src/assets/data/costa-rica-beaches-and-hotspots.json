@@ -1,0 +1,749 @@
+{
+  "slug": "costa-rica-beaches-and-hotspots",
+  "title": "Costa Rican Beaches & Tourism Hotspots",
+  "emoji": "🏖️",
+  "shortDescription": "Handpicked beaches and must‑see destinations across Costa Rica.",
+  "longDescription": "From Caribbean palms to Pacific surf breaks and volcanic highlands, Costa Rica offers diverse destinations. This guide curates single‑focus beach and hotspot entries with highlights, practical tips, and responsible travel notes. Learners can compare ecosystems, seasons, and activities while planning low‑impact trips that benefit local communities.",
+  "cardImage": "/images/places/card.webp",
+  "wideImage": "/images/places/wide.jpg",
+  "items": [
+    {
+      "title": "Manuel Antonio National Park",
+      "emoji": "🏖️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Compact park where rainforest meets white‑sand coves."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Sloths, monkeys, short scenic trails, viewpoints."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Timed entries; closed Tuesdays (verify). Go early to avoid heat and crowds."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Stay on trails, no feeding wildlife, pack out all trash."
+        }
+      ],
+      "images": [
+        "/images/places/manuel-antonio-1.jpg",
+        "/images/places/manuel-antonio-2.jpg",
+        "/images/places/manuel-antonio-3.jpg",
+        "/images/places/manuel-antonio-4.jpeg"
+      ]
+    },
+    {
+      "title": "Tamarindo",
+      "emoji": "🏄",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Classic surf town on the Gold Coast."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Beginner‑friendly waves, sunsets, dining scene."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Dry season Dec–Apr is sunniest; plenty of schools and rentals."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Choose reef‑safe sunscreen and refill bottles to reduce plastics."
+        }
+      ],
+      "images": [
+        "/images/places/tamarindo-1.jpeg",
+        "/images/places/tamarindo-2.jpg",
+        "/images/places/tamarindo-3.jpg",
+        "/images/places/tamarindo-4.webp"
+      ]
+    },
+    {
+      "title": "Playa Conchal",
+      "emoji": "🫧",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Beach of crushed shells with turquoise water."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Great for snorkeling on calm days; upscale and public access mix."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Arrive early for parking at Brasilito side; bring shade."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Avoid stepping on coral; keep distance from rays and turtles."
+        }
+      ],
+      "images": [
+        "/images/places/conchal-1.avif",
+        "/images/places/conchal-2.jpg",
+        "/images/places/conchal-3.webp",
+        "/images/places/conchal-4.jpg"
+      ]
+    },
+    {
+      "title": "Santa Teresa",
+      "emoji": "🌊",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Bohemian village with consistent beach breaks."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Surf, yoga, tidepool exploring on low tide."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Roads are dusty; rent 4x4 if exploring beyond town."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Respect rip currents, drive slowly for wildlife and pedestrians."
+        }
+      ],
+      "images": [
+        "/images/places/santa-teresa-1.jpg",
+        "/images/places/santa-teresa-2.jpeg",
+        "/images/places/santa-teresa-3.jpg",
+        "/images/places/santa-teresa-4.jpg"
+      ]
+    },
+    {
+      "title": "Nosara",
+      "emoji": "🧘",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Wellness‑oriented town anchored by Playa Guiones."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Long sandy beach, surf schools, turtle season at Ostional nearby."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Most lodging walkable to beach; early mornings are calmest."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Keep lights low during turtle nesting season."
+        }
+      ],
+      "images": [
+        "/images/places/nosara-1.jpg",
+        "/images/places/nosara-2.jpg",
+        "/images/places/nosara-3.jpg",
+        "/images/places/nosara-4.jpg"
+      ]
+    },
+    {
+      "title": "Sámara",
+      "emoji": "🌴",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Laid‑back bay protected by an offshore reef."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Kayaks to Isla Chora, calm swimming, family‑friendly vibe."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Shops and eateries on the main street; buses connect to Nicoya."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Hire licensed guides and wear lifejackets for kayaking."
+        }
+      ],
+      "images": [
+        "/images/places/samara-1.jpg",
+        "/images/places/samara-2.jpg",
+        "/images/places/samara-3.webp",
+        "/images/places/samara-4.webp"
+      ]
+    },
+    {
+      "title": "Carrillo",
+      "emoji": "⛵",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Serene crescent beach just south of Sámara."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Palm‑lined shore, scenic mirador, fewer crowds."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Limited services—bring water and snacks."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Use designated picnic areas; take trash with you."
+        }
+      ],
+      "images": [
+        "/images/places/carrillo-1.jpg",
+        "/images/places/carrillo-2.jpg",
+        "/images/places/carrillo-3.jpg",
+        "/images/places/carrillo-4.jpg"
+      ]
+    },
+    {
+      "title": "Montezuma",
+      "emoji": "💧",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Waterfalls and tide pools near a small beach town."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Hikes to cascades, day trips to Isla Tortuga."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Some trails are steep; wear sturdy footwear."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Stay on marked paths to prevent erosion."
+        }
+      ],
+      "images": [
+        "/images/places/montezuma-1.jpeg",
+        "/images/places/montezuma-2.jpg",
+        "/images/places/montezuma-3.jpeg",
+        "/images/places/montezuma-4.jpg"
+      ]
+    },
+    {
+      "title": "Jacó",
+      "emoji": "🏄‍♂️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Closest surfing beach to the capital with lively amenities."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Nightlife, lessons, nearby Herradura marina and canopy tours."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Hot afternoons—plan water and shade; quick storms in rainy season."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Respect flagged swim zones and beach cleanups welcome."
+        }
+      ],
+      "images": [
+        "/images/places/jaco-1.jpg",
+        "/images/places/jaco-2.jpg",
+        "/images/places/jaco-3.jpg",
+        "/images/places/jaco-4.jpg"
+      ]
+    },
+    {
+      "title": "Dominical",
+      "emoji": "🌧️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "South Pacific surf village with rugged charm."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Powerful waves, Nauyaca waterfalls day trip."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Stronger currents—intermediate to advanced surfers."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Support local conservation at Marino Ballena nearby."
+        }
+      ],
+      "images": [
+        "/images/places/dominical-1.jpg",
+        "/images/places/dominical-2.jpg",
+        "/images/places/dominical-3.jpg",
+        "/images/places/dominical-4.avif"
+      ]
+    },
+    {
+      "title": "Uvita & Marino Ballena",
+      "emoji": "🐋",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Whale‑tail sandbar visible at low tide inside a marine park."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Humpback whale watching, snorkeling, waterfalls."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Check tide tables for walking the tombolo; entrance fee applies."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Keep distance from marine life; use reef‑safe sunscreen."
+        }
+      ],
+      "images": [
+        "/images/places/uvita-1.jpg",
+        "/images/places/uvita-2.jpeg",
+        "/images/places/uvita-3.webp",
+        "/images/places/uvita-4.webp"
+      ]
+    },
+    {
+      "title": "Drake Bay",
+      "emoji": "🦜",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Gateway to Corcovado and Isla del Caño."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Pristine wildlife, offshore snorkeling and diving."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Boat access common; pack dry bags for landings."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Choose operators with low‑impact guidelines and small groups."
+        }
+      ],
+      "images": [
+        "/images/places/drake-bay-1.webp",
+        "/images/places/drake-bay-2.jpg",
+        "/images/places/drake-bay-3.jpg",
+        "/images/places/drake-bay-4.jpg"
+      ]
+    },
+    {
+      "title": "Puerto Viejo de Talamanca",
+      "emoji": "🎷",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Caribbean town blending Afro‑Caribbean culture and surf."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Cocles and Salsa Brava waves, bici‑friendly roads."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Hot and humid; lodgings range from simple to boutique."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Respect local communities and wildlife crossings."
+        }
+      ],
+      "images": [
+        "/images/places/puerto-viejo-1.avif",
+        "/images/places/puerto-viejo-2.jpg",
+        "/images/places/puerto-viejo-3.avif",
+        "/images/places/puerto-viejo-4.jpg"
+      ]
+    },
+    {
+      "title": "Cahuita",
+      "emoji": "🐠",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "National park with easy coastal trail and coral views."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Snorkeling with guides, sloths and monkeys on trails."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Donation‑based entrance at town side; bring water."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Avoid touching corals; stay on trail to protect roots."
+        }
+      ],
+      "images": [
+        "/images/places/cahuita-1.jpg",
+        "/images/places/cahuita-2.jpeg",
+        "/images/places/cahuita-3.jpg",
+        "/images/places/cahuita-4.jpg"
+      ]
+    },
+    {
+      "title": "Manzanillo (Gandoca-Manzanillo)",
+      "emoji": "🌿",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Protected refuge at the end of the road."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Jungle beaches, lookouts, occasional manatee sightings offshore."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Road can be muddy; facilities limited."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Do not disturb nesting turtles or mangroves."
+        }
+      ],
+      "images": [
+        "/images/places/manzanillo-gandoca-manzanillo-1.jpg",
+        "/images/places/manzanillo-gandoca-manzanillo-2.jpg",
+        "/images/places/manzanillo-gandoca-manzanillo-3.jpg",
+        "/images/places/manzanillo-gandoca-manzanillo-4.jpg"
+      ]
+    },
+    {
+      "title": "Papagayo Peninsula",
+      "emoji": "⛱️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Collection of calm coves and upscale resorts."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Kayaking, sailing, quiet swimming spots."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Best weather in dry season; rental cars useful to explore."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Use public access paths; respect beaches’ public domain."
+        }
+      ],
+      "images": [
+        "/images/places/papagayo-peninsula-1.jpg",
+        "/images/places/papagayo-peninsula-2.jpg",
+        "/images/places/papagayo-peninsula-3.jpg",
+        "/images/places/papagayo-peninsula-4.jpg"
+      ]
+    },
+    {
+      "title": "Playa Flamingo",
+      "emoji": "⛶",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Pale sands and a new marina north of Conchal."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Fishing charters, catamaran cruises, sunsets."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Parking can be limited; book tours ahead in high season."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Choose licensed operators that follow wildlife regulations."
+        }
+      ],
+      "images": [
+        "/images/places/playa-flamingo-1.jpg",
+        "/images/places/playa-flamingo-2.jpg",
+        "/images/places/playa-flamingo-3.jpg",
+        "/images/places/playa-flamingo-4.jpg"
+      ]
+    },
+    {
+      "title": "Playa Hermosa (Guanacaste)",
+      "emoji": "🌅",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Tranquil bay ideal for families and divers."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Short drives to Coco services and dive boats."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Afternoons windy; mornings best for swimming."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Avoid anchoring on reefs; follow flag safety system."
+        }
+      ],
+      "images": [
+        "/images/places/playa-hermosa-guanacaste-1.jpg",
+        "/images/places/playa-hermosa-guanacaste-2.jpg",
+        "/images/places/playa-hermosa-guanacaste-3.jpg",
+        "/images/places/playa-hermosa-guanacaste-4.jpg"
+      ]
+    },
+    {
+      "title": "Playas del Coco",
+      "emoji": "⚓",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Traditional beach town and regional hub."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Diving to Bat Islands, fishing, easy logistics."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Nightlife concentrated near the boulevard; many ATMs."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Respect quiet hours in residential areas."
+        }
+      ],
+      "images": [
+        "/images/places/playas-del-coco-1.jpg",
+        "/images/places/playas-del-coco-2.jpg",
+        "/images/places/playas-del-coco-3.jpg",
+        "/images/places/playas-del-coco-4.jpg"
+      ]
+    },
+    {
+      "title": "Isla Tortuga",
+      "emoji": "🛥️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Day‑trip island with clear water and white sand."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Snorkeling, beach volleyball, short hikes."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Boats depart from Jacó/Herradura or Nicoya Gulf towns."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Pack out all trash; avoid feeding fish during snorkel stops."
+        }
+      ],
+      "images": [
+        "/images/places/isla-tortuga-1.jpg",
+        "/images/places/isla-tortuga-2.jpg",
+        "/images/places/isla-tortuga-3.jpg",
+        "/images/places/isla-tortuga-4.jpg"
+      ]
+    },
+    {
+      "title": "Tortuguero",
+      "emoji": "🐢",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Canal‑lined village in a remote Caribbean park."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Turtle nesting (seasonal), sunrise canoe tours, wildlife viewing."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Access by boat or small plane; cash is useful."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Hire certified turtle guides; keep lights off on beaches."
+        }
+      ],
+      "images": [
+        "/images/places/tortuguero-1.jpg",
+        "/images/places/tortuguero-2.jpg",
+        "/images/places/tortuguero-3.jpg",
+        "/images/places/tortuguero-4.jpg"
+      ]
+    },
+    {
+      "title": "La Fortuna (Arenal)",
+      "emoji": "🌋",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Hotspot at the base of Arenal Volcano (not a beach, but top attraction)."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Hot springs, hanging bridges, waterfall hikes."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Rains common—bring layers; book timed entries for parks."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Stick to marked trails; respect closure zones near the volcano."
+        }
+      ],
+      "images": [
+        "/images/places/la-fortuna-arenal-1.jpg",
+        "/images/places/la-fortuna-arenal-2.jpg",
+        "/images/places/la-fortuna-arenal-3.jpg",
+        "/images/places/la-fortuna-arenal-4.jpg"
+      ]
+    },
+    {
+      "title": "Monteverde",
+      "emoji": "🌫️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Highland cloud‑forest reserve network."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Birding for quetzal, canopy bridges, night walks."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Cool, misty conditions—pack jackets; roads can be rough."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Stay on boardwalks to protect fragile soils and epiphytes."
+        }
+      ],
+      "images": [
+        "/images/places/monteverde-1.jpg",
+        "/images/places/monteverde-2.jpg",
+        "/images/places/monteverde-3.jpg",
+        "/images/places/monteverde-4.jpg"
+      ]
+    },
+    {
+      "title": "Rincón de la Vieja",
+      "emoji": "🌋",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Volcanic park with mud pots and waterfalls."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Hiking, horseback riding, canyoning near Liberia."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Check trail closures due to volcanic activity or rain."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Keep distance from fumaroles; follow ranger advice."
+        }
+      ],
+      "images": [
+        "/images/places/rinc-n-de-la-vieja-1.jpg",
+        "/images/places/rinc-n-de-la-vieja-2.jpg",
+        "/images/places/rinc-n-de-la-vieja-3.jpg",
+        "/images/places/rinc-n-de-la-vieja-4.jpg"
+      ]
+    },
+    {
+      "title": "Tenorio & Río Celeste",
+      "emoji": "🔵",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Turquoise river formed by mineral mixing inside Tenorio Volcano NP."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Hike to the waterfall, sky‑blue pools, and 'Teñideros'."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Timed entries; steps can be slippery—wear good shoes."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Stay out of the water inside the park to protect chemistry."
+        }
+      ],
+      "images": [
+        "/images/places/tenorio-r-o-celeste-1.jpg",
+        "/images/places/tenorio-r-o-celeste-2.jpg",
+        "/images/places/tenorio-r-o-celeste-3.jpg",
+        "/images/places/tenorio-r-o-celeste-4.jpg"
+      ]
+    },
+    {
+      "title": "Poás Volcano",
+      "emoji": "🌋",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Accessible crater viewpoints with timed entry."
+        },
+        {
+          "heading": "Highlights",
+          "content": "Short trails, active fumaroles, museum/coffee nearby."
+        },
+        {
+          "heading": "Practical Info",
+          "content": "Reserve online; closures occur during eruptions."
+        },
+        {
+          "heading": "Responsible Travel",
+          "content": "Masks provided during certain conditions; follow instructions."
+        }
+      ],
+      "images": [
+        "/images/places/po-s-volcano-1.jpg",
+        "/images/places/po-s-volcano-2.jpg",
+        "/images/places/po-s-volcano-3.jpg",
+        "/images/places/po-s-volcano-4.jpg"
+      ]
+    }
+  ],
+  "gallery": [
+    "/images/places/gallery-1.jpg",
+    "/images/places/gallery-2.avif",
+    "/images/places/gallery-3.jpg",
+    "/images/places/gallery-4.jpg",
+    "/images/places/gallery-5.jpg",
+    "/images/places/gallery-6.webp",
+    "/images/places/gallery-7.webp",
+    "/images/places/gallery-8.jpg"
+  ]
+}

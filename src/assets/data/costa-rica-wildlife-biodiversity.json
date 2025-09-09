@@ -1,0 +1,771 @@
+{
+  "slug": "costa-rica-wildlife-biodiversity",
+  "title": "Costa Rican Wildlife & Biodiversity",
+  "emoji": "🦥",
+  "shortDescription": "Meet Costa Rica’s astonishing wildlife and ecosystems, from cloud forests to coral reefs.",
+  "longDescription": "Costa Rica concentrates an outsized share of Earth’s life in a compact territory where two oceans and two continents meet. Misty cloud forests, lowland rainforests, mangroves, wetlands, coral reefs and high páramo create niches for thousands of endemic and migratory species. Conservation, science, and community livelihoods intersect here: more than a quarter of the nation is protected, ecotourism funds ranger programs, and local knowledge guides restoration. This collection presents emblematic species and habitats, emphasizing adaptations, ecological roles, and responsible wildlife watching.",
+  "cardImage": "/images/wildlife/card.jpg",
+  "wideImage": "/images/wildlife/wide.jpg",
+  "items": [
+    {
+      "title": "Three-Toed Sloth (Bradypus variegatus)",
+      "emoji": "🦥",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "A slow‑moving arboreal mammal that spends most of its life hanging in the canopy, lowering metabolism to save energy."
+        },
+        {
+          "heading": "Habitat & Behavior",
+          "content": "Common in Caribbean lowlands and regenerating forests; descends to the ground rarely, often to defecate. Algae and moths live in its fur, forming a miniature ecosystem."
+        },
+        {
+          "heading": "Conservation & Threats",
+          "content": "Power lines and road crossings are major hazards. Wildlife corridors, insulated cables, and rescue centers reduce mortality."
+        },
+        {
+          "heading": "Cultural Notes",
+          "content": "A national icon for patience and calm; campaigns promote respectful, no‑touch encounters."
+        }
+      ],
+      "images": [
+        "/images/wildlife/three-toed-sloth-bradypus-variegatus-1.jpg",
+        "/images/wildlife/three-toed-sloth-bradypus-variegatus-2.jpg",
+        "/images/wildlife/three-toed-sloth-bradypus-variegatus-3.jpg",
+        "/images/wildlife/three-toed-sloth-bradypus-variegatus-4.jpg"
+      ]
+    },
+    {
+      "title": "Hoffmann’s Two-Toed Sloth (Choloepus hoffmanni)",
+      "emoji": "🦥",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Nocturnal relative of the three‑toed sloth with a blunter face and two claws on the forelimbs."
+        },
+        {
+          "heading": "Habitat & Behavior",
+          "content": "Feeds on leaves, flowers, and fruit; excellent climber that prefers dense canopy and sleeping cavities."
+        },
+        {
+          "heading": "Conservation & Threats",
+          "content": "Urban expansion fragments habitat. Tree connectivity in towns allows safe movement."
+        },
+        {
+          "heading": "Learning Angle",
+          "content": "Contrasting two sloth lineages shows convergent slow‑life strategies."
+        }
+      ],
+      "images": [
+        "/images/wildlife/hoffmann-s-two-toed-sloth-choloepus-hoffmanni-1.jpg",
+        "/images/wildlife/hoffmann-s-two-toed-sloth-choloepus-hoffmanni-2.jpg",
+        "/images/wildlife/hoffmann-s-two-toed-sloth-choloepus-hoffmanni-3.jpg",
+        "/images/wildlife/hoffmann-s-two-toed-sloth-choloepus-hoffmanni-4.jpg"
+      ]
+    },
+    {
+      "title": "Resplendent Quetzal (Pharomachrus mocinno)",
+      "emoji": "🪶",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Emerald and crimson bird revered in Mesoamerica. Males grow spectacular tail coverts during breeding."
+        },
+        {
+          "heading": "Habitat & Behavior",
+          "content": "Cloud forests of Talamanca and Monteverde; disperses seeds of wild avocados, sustaining forest cycles."
+        },
+        {
+          "heading": "Conservation & Threats",
+          "content": "Sensitive to warming and deforestation; nest monitoring and reforestation protect populations."
+        },
+        {
+          "heading": "Viewing Ethics",
+          "content": "Observe at dawn with guides; keep quiet distance to avoid stress."
+        }
+      ],
+      "images": [
+        "/images/wildlife/resplendent-quetzal-pharomachrus-mocinno-1.jpg",
+        "/images/wildlife/resplendent-quetzal-pharomachrus-mocinno-2.jpg",
+        "/images/wildlife/resplendent-quetzal-pharomachrus-mocinno-3.jpg",
+        "/images/wildlife/resplendent-quetzal-pharomachrus-mocinno-4.jpg"
+      ]
+    },
+    {
+      "title": "Scarlet Macaw (Ara macao)",
+      "emoji": "🦜",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Brilliant red, yellow, and blue parrot now recovering on the Pacific slope."
+        },
+        {
+          "heading": "Habitat & Behavior",
+          "content": "Seen in Carara and Osa; pairs bond for life and communicate with far‑carrying calls."
+        },
+        {
+          "heading": "Conservation & Threats",
+          "content": "Illegal pet trade and loss of nesting trees were decisive threats; nest boxes and enforcement helped rebound."
+        },
+        {
+          "heading": "Cultural Meaning",
+          "content": "Flagship of rainforest recovery and community pride."
+        }
+      ],
+      "images": [
+        "/images/wildlife/scarlet-macaw-ara-macao-1.jpg",
+        "/images/wildlife/scarlet-macaw-ara-macao-2.jpg",
+        "/images/wildlife/scarlet-macaw-ara-macao-3.jpg",
+        "/images/wildlife/scarlet-macaw-ara-macao-4.jpg"
+      ]
+    },
+    {
+      "title": "Great Green Macaw (Ara ambiguus)",
+      "emoji": "🦜",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Critically endangered parrot tied to almendro (Dipteryx panamensis) for nesting and food."
+        },
+        {
+          "heading": "Habitat & Behavior",
+          "content": "Northern Caribbean lowlands; seasonal movements track fruiting trees."
+        },
+        {
+          "heading": "Conservation & Threats",
+          "content": "Corridors, reintroductions, and legal protection of almendro are restoring numbers."
+        },
+        {
+          "heading": "Community Link",
+          "content": "Festivals celebrate successful chick fledging each season."
+        }
+      ],
+      "images": [
+        "/images/wildlife/great-green-macaw-ara-ambiguus-1.jpg",
+        "/images/wildlife/great-green-macaw-ara-ambiguus-2.jpg",
+        "/images/wildlife/great-green-macaw-ara-ambiguus-3.jpg",
+        "/images/wildlife/great-green-macaw-ara-ambiguus-4.jpg"
+      ]
+    },
+    {
+      "title": "Jaguar (Panthera onca)",
+      "emoji": "🐆",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Largest cat in the Americas; apex predator whose presence stabilizes food webs."
+        },
+        {
+          "heading": "Habitat & Behavior",
+          "content": "Ranges in Corcovado and Tortuguero; powerful swimmer that preys on peccaries, turtles, and caimans."
+        },
+        {
+          "heading": "Conservation & Threats",
+          "content": "Needs large connected habitats. Camera‑trap networks and livestock‑management reduce conflict."
+        },
+        {
+          "heading": "Cultural Notes",
+          "content": "Sacred in pre‑Columbian cosmologies and modern conservation stories."
+        }
+      ],
+      "images": [
+        "/images/wildlife/jaguar-panthera-onca-1.jpg",
+        "/images/wildlife/jaguar-panthera-onca-2.jpg",
+        "/images/wildlife/jaguar-panthera-onca-3.jpg",
+        "/images/wildlife/jaguar-panthera-onca-4.jpg"
+      ]
+    },
+    {
+      "title": "Ocelot (Leopardus pardalis)",
+      "emoji": "🐈",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Nocturnal, mid‑sized cat; agile climber with striking rosettes."
+        },
+        {
+          "heading": "Habitat & Behavior",
+          "content": "Hunts rodents and birds in dense understory across both slopes."
+        },
+        {
+          "heading": "Conservation & Threats",
+          "content": "Roadkill and fragmentation threaten gene flow; wildlife underpasses help."
+        },
+        {
+          "heading": "Ecological Role",
+          "content": "Controls small mammals, limiting crop damage near farms."
+        }
+      ],
+      "images": [
+        "/images/wildlife/ocelot-leopardus-pardalis-1.jpg",
+        "/images/wildlife/ocelot-leopardus-pardalis-2.jpg",
+        "/images/wildlife/ocelot-leopardus-pardalis-3.jpg"
+      ]
+    },
+    {
+      "title": "Baird’s Tapir (Tapirus bairdii)",
+      "emoji": "🫏",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "The largest terrestrial mammal in Central America—gentle, shy, and essential seed disperser."
+        },
+        {
+          "heading": "Habitat & Behavior",
+          "content": "Nocturnal browser of swamps and rainforest; strong swimmer, leaves telltale tracks in mud."
+        },
+        {
+          "heading": "Conservation & Threats",
+          "content": "Endangered from hunting and roads; crossing structures and patrols are critical."
+        },
+        {
+          "heading": "Ecological Role",
+          "content": "Plants large‑seeded trees that shape future forest composition."
+        }
+      ],
+      "images": [
+        "/images/wildlife/baird-s-tapir-tapirus-bairdii-1.jpg",
+        "/images/wildlife/baird-s-tapir-tapirus-bairdii-2.jpg",
+        "/images/wildlife/baird-s-tapir-tapirus-bairdii-3.jpg",
+        "/images/wildlife/baird-s-tapir-tapirus-bairdii-4.jpg"
+      ]
+    },
+    {
+      "title": "White‑faced Capuchin (Cebus imitator)",
+      "emoji": "🐵",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Highly intelligent primate known for tool use and complex social dynamics."
+        },
+        {
+          "heading": "Habitat & Behavior",
+          "content": "Common in Nicoya and Manuel Antonio; opportunistic diet of fruits, insects, and small vertebrates."
+        },
+        {
+          "heading": "Conservation & Threats",
+          "content": "Feeding by tourists causes aggression and disease—strict no‑feeding rules apply."
+        },
+        {
+          "heading": "Ethics",
+          "content": "Store food securely; observe from a respectful distance."
+        }
+      ],
+      "images": [
+        "/images/wildlife/white-faced-capuchin-cebus-imitator-1.jpg",
+        "/images/wildlife/white-faced-capuchin-cebus-imitator-2.jpg",
+        "/images/wildlife/white-faced-capuchin-cebus-imitator-3.jpg",
+        "/images/wildlife/white-faced-capuchin-cebus-imitator-4.jpg"
+      ]
+    },
+    {
+      "title": "Mantled Howler Monkey (Alouatta palliata)",
+      "emoji": "🐒",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Deep dawn choruses define many forests; sound travels kilometers."
+        },
+        {
+          "heading": "Habitat & Behavior",
+          "content": "Lives in groups; folivorous diet drives slow, energy‑saving lifestyle."
+        },
+        {
+          "heading": "Conservation & Threats",
+          "content": "Electrocution on uninsulated lines is a major cause of death; wildlife bridges save lives."
+        },
+        {
+          "heading": "Community Role",
+          "content": "Sentinel of forest connectivity in urbanizing regions."
+        }
+      ],
+      "images": [
+        "/images/wildlife/mantled-howler-monkey-alouatta-palliata-1.jpg",
+        "/images/wildlife/mantled-howler-monkey-alouatta-palliata-2.jpg",
+        "/images/wildlife/mantled-howler-monkey-alouatta-palliata-3.jpg",
+        "/images/wildlife/mantled-howler-monkey-alouatta-palliata-4.jpg"
+      ]
+    },
+    {
+      "title": "Geoffroy’s Spider Monkey (Ateles geoffroyi)",
+      "emoji": "🕸️",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Acrobatic primate with prehensile tail; indicator of intact, mature forest."
+        },
+        {
+          "heading": "Habitat & Behavior",
+          "content": "Fission‑fusion groups roam large home ranges seeking ripe fruit."
+        },
+        {
+          "heading": "Conservation & Threats",
+          "content": "Highly sensitive to hunting and fragmentation; corridors and large reserves are essential."
+        },
+        {
+          "heading": "Learning Angle",
+          "content": "Highlights the link between frugivores and seed dispersal."
+        }
+      ],
+      "images": [
+        "/images/wildlife/geoffroy-s-spider-monkey-ateles-geoffroyi-1.jpg",
+        "/images/wildlife/geoffroy-s-spider-monkey-ateles-geoffroyi-2.jpg",
+        "/images/wildlife/geoffroy-s-spider-monkey-ateles-geoffroyi-3.jpg",
+        "/images/wildlife/geoffroy-s-spider-monkey-ateles-geoffroyi-4.jpg"
+      ]
+    },
+    {
+      "title": "Kinkajou (Potos flavus)",
+      "emoji": "🧸",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Nocturnal 'honey bear' pollinator with prehensile tail and long tongue."
+        },
+        {
+          "heading": "Habitat & Behavior",
+          "content": "Visits night‑blooming flowers and fruiting trees; often detected by soft chirps."
+        },
+        {
+          "heading": "Conservation & Threats",
+          "content": "Victim of pet trade; education discourages captivity."
+        },
+        {
+          "heading": "Observation",
+          "content": "Best seen on guided night walks using red lights."
+        }
+      ],
+      "images": [
+        "/images/wildlife/kinkajou-1.jpg",
+        "/images/wildlife/kinkajou-2.jpg",
+        "/images/wildlife/kinkajou-3.jpg",
+        "/images/wildlife/kinkajou-4.jpg"
+      ]
+    },
+    {
+      "title": "White‑nosed Coati (Nasua narica)",
+      "emoji": "🦝",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Curious diurnal procyonid with flexible snout used for foraging."
+        },
+        {
+          "heading": "Habitat & Behavior",
+          "content": "Females form social bands; males are mostly solitary. Adapts to edges and secondary growth."
+        },
+        {
+          "heading": "Conservation & Threats",
+          "content": "Human food conditioning leads to conflict; secure trash and no feeding."
+        },
+        {
+          "heading": "Citizen Science",
+          "content": "Visitor reports help map urban–wildlife interactions."
+        }
+      ],
+      "images": [
+        "/images/wildlife/white-nosed-coati-nasua-narica-1.jpg",
+        "/images/wildlife/white-nosed-coati-nasua-narica-2.jpg",
+        "/images/wildlife/white-nosed-coati-nasua-narica-3.jpg",
+        "/images/wildlife/white-nosed-coati-nasua-narica-4.jpg"
+      ]
+    },
+    {
+      "title": "Agouti (Dasyprocta punctata)",
+      "emoji": "🐹",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Day‑active rodent that caches seeds, unintentionally planting forests."
+        },
+        {
+          "heading": "Habitat & Behavior",
+          "content": "Common near lodges and forest edges; wary, quick sprinters."
+        },
+        {
+          "heading": "Ecology",
+          "content": "Key partner of hardwood trees that rely on scatter‑hoarding."
+        },
+        {
+          "heading": "Conservation",
+          "content": "Hunting restrictions and habitat mosaics sustain populations."
+        }
+      ],
+      "images": [
+        "/images/wildlife/agouti-dasyprocta-punctata-1.jpg",
+        "/images/wildlife/agouti-dasyprocta-punctata-2.jpg",
+        "/images/wildlife/agouti-dasyprocta-punctata-3.jpg",
+        "/images/wildlife/agouti-dasyprocta-punctata-4.jpg"
+      ]
+    },
+    {
+      "title": "Lowland Paca (Cuniculus paca)",
+      "emoji": "🌙",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Nocturnal, spotted rodent with strong hindlegs; prized by predators."
+        },
+        {
+          "heading": "Habitat & Behavior",
+          "content": "Uses burrows near streams; forages for fallen fruit at night."
+        },
+        {
+          "heading": "Conservation & Threats",
+          "content": "Overhunting can alter food webs; enforcement and alternatives reduce pressure."
+        },
+        {
+          "heading": "Field Tip",
+          "content": "Look for tracks and burrow entrances along creek banks."
+        }
+      ],
+      "images": [
+        "/images/wildlife/lowland-paca-cuniculus-paca-1.jpg",
+        "/images/wildlife/lowland-paca-cuniculus-paca-2.jpg",
+        "/images/wildlife/lowland-paca-cuniculus-paca-3.jpg",
+        "/images/wildlife/lowland-paca-cuniculus-paca-4.jpg"
+      ]
+    },
+    {
+      "title": "Blue Morpho Butterfly (Morpho peleides)",
+      "emoji": "🦋",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Iridescent wings flash blue to confuse predators; underside is cryptic brown."
+        },
+        {
+          "heading": "Life Cycle",
+          "content": "Larvae feed on host plants; adults sip fermenting fruit and sap."
+        },
+        {
+          "heading": "Conservation",
+          "content": "Butterfly farms provide income while easing wild collection."
+        },
+        {
+          "heading": "STEM",
+          "content": "Great case for structural color and metamorphosis."
+        }
+      ],
+      "images": [
+        "/images/wildlife/blue-morpho-butterfly-morpho-peleides-1.jpg",
+        "/images/wildlife/blue-morpho-butterfly-morpho-peleides-2.jpg",
+        "/images/wildlife/blue-morpho-butterfly-morpho-peleides-3.jpg",
+        "/images/wildlife/blue-morpho-butterfly-morpho-peleides-4.jpg"
+      ]
+    },
+    {
+      "title": "Strawberry Poison Dart Frog (Oophaga pumilio)",
+      "emoji": "🐸",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Tiny aposematic frog with many color morphs; toxins come from its arthropod diet."
+        },
+        {
+          "heading": "Parental Care",
+          "content": "Males guard eggs; females deposit unfertilized eggs as tadpole food in bromeliads."
+        },
+        {
+          "heading": "Conservation",
+          "content": "Pet trade and habitat loss are pressures; captive breeding and permits regulate demand."
+        },
+        {
+          "heading": "Learning",
+          "content": "Model for chemical ecology and behavior."
+        }
+      ],
+      "images": [
+        "/images/wildlife/strawberry-poison-dart-frog-oophaga-pumilio-1.jpg",
+        "/images/wildlife/strawberry-poison-dart-frog-oophaga-pumilio-2.jpg",
+        "/images/wildlife/strawberry-poison-dart-frog-oophaga-pumilio-3.jpg",
+        "/images/wildlife/strawberry-poison-dart-frog-oophaga-pumilio-4.jpg"
+      ]
+    },
+    {
+      "title": "Fleischmann’s Glass Frog (Hyalinobatrachium fleischmanni)",
+      "emoji": "🔍",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Translucent belly reveals organs, helping camouflage on leaf undersides."
+        },
+        {
+          "heading": "Habitat",
+          "content": "Nocturnal along clear mountain streams; eggs laid on leaves above water."
+        },
+        {
+          "heading": "Conservation",
+          "content": "Sensitive to water pollution and chytrid fungus; riparian buffers are vital."
+        },
+        {
+          "heading": "Education",
+          "content": "Highlights freshwater health and amphibian declines."
+        }
+      ],
+      "images": [
+        "/images/wildlife/fleischmann-s-glass-frog-hyalinobatrachium-fleischmanni-1.jpg",
+        "/images/wildlife/fleischmann-s-glass-frog-hyalinobatrachium-fleischmanni-2.jpg"
+      ]
+    },
+    {
+      "title": "Common Basilisk (Basiliscus basiliscus)",
+      "emoji": "🦎",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "The 'Jesus Christ lizard' can sprint across water using fringed toes and rapid slaps."
+        },
+        {
+          "heading": "Habitat & Behavior",
+          "content": "Riparian thickets; dives to escape threats and is an agile climber."
+        },
+        {
+          "heading": "Conservation",
+          "content": "Locally common but vulnerable to bank clearing and pets."
+        },
+        {
+          "heading": "STEM",
+          "content": "Inspires research in biomechanics and robotics."
+        }
+      ],
+      "images": [
+        "/images/wildlife/common-basilisk-basiliscus-basiliscus-1.jpg",
+        "/images/wildlife/common-basilisk-basiliscus-basiliscus-2.jpg",
+        "/images/wildlife/common-basilisk-basiliscus-basiliscus-3.jpg",
+        "/images/wildlife/common-basilisk-basiliscus-basiliscus-4.jpg"
+      ]
+    },
+    {
+      "title": "American Crocodile (Crocodylus acutus)",
+      "emoji": "🐊",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Large reptile of estuaries and river mouths; notable population at Tárcoles."
+        },
+        {
+          "heading": "Habitat & Behavior",
+          "content": "Basks on muddy banks; nests on sandy shores; opportunistic predator."
+        },
+        {
+          "heading": "Conservation & Safety",
+          "content": "Avoid feeding; keep distance from banks; authorized boat tours only."
+        },
+        {
+          "heading": "Management",
+          "content": "Zoning and education curb human–crocodile conflict."
+        }
+      ],
+      "images": [
+        "/images/wildlife/american-crocodile-crocodylus-acutus-1.jpg",
+        "/images/wildlife/american-crocodile-crocodylus-acutus-2.jpg",
+        "/images/wildlife/american-crocodile-crocodylus-acutus-3.jpg",
+        "/images/wildlife/american-crocodile-crocodylus-acutus-4.jpg"
+      ]
+    },
+    {
+      "title": "Spectacled Caiman (Caiman crocodilus)",
+      "emoji": "🐊",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Smaller cousin of crocodiles with a bony ridge between eyes."
+        },
+        {
+          "heading": "Habitat & Behavior",
+          "content": "Freshwater wetlands like Caño Negro; ambushes fish and amphibians."
+        },
+        {
+          "heading": "Conservation",
+          "content": "Wetland protection and water quality are key."
+        },
+        {
+          "heading": "Learning",
+          "content": "Contrasts salt‑tolerant crocodiles with freshwater caimans."
+        }
+      ],
+      "images": [
+        "/images/wildlife/spectacled-caiman-caiman-crocodilus-1.jpg",
+        "/images/wildlife/spectacled-caiman-caiman-crocodilus-2.jpg",
+        "/images/wildlife/spectacled-caiman-caiman-crocodilus-3.jpg",
+        "/images/wildlife/spectacled-caiman-caiman-crocodilus-4.jpg"
+      ]
+    },
+    {
+      "title": "Green Sea Turtle (Chelonia mydas)",
+      "emoji": "🐢",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Long‑distance migrant returning to natal beaches; emblematic of Tortuguero."
+        },
+        {
+          "heading": "Life Cycle",
+          "content": "Females lay clutches at night; juveniles graze seagrass beds, trimming meadows."
+        },
+        {
+          "heading": "Conservation",
+          "content": "Light pollution, plastics, and bycatch threaten survival; patrols and gear changes help."
+        },
+        {
+          "heading": "Responsible Watching",
+          "content": "Use certified guides, red lights, and keep clear paths for nesting females."
+        }
+      ],
+      "images": [
+        "/images/wildlife/green-sea-turtle-chelonia-mydas-1.jpg",
+        "/images/wildlife/green-sea-turtle-chelonia-mydas-2.jpg",
+        "/images/wildlife/green-sea-turtle-chelonia-mydas-3.jpg"
+      ]
+    },
+    {
+      "title": "Olive Ridley Turtle (Lepidochelys olivacea)",
+      "emoji": "🐢",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Known for synchronized mass nestings—arribadas—at Ostional."
+        },
+        {
+          "heading": "Ecology",
+          "content": "Hatchling success depends on beach dynamics and predator cycles."
+        },
+        {
+          "heading": "Conservation",
+          "content": "Community‑managed egg harvest under quotas funds protection and research."
+        },
+        {
+          "heading": "Visitor Tips",
+          "content": "Follow guide instructions; no flash; maintain distance."
+        }
+      ],
+      "images": [
+        "/images/wildlife/olive-ridley-turtle-lepidochelys-olivacea-1.jpg",
+        "/images/wildlife/olive-ridley-turtle-lepidochelys-olivacea-2.jpg",
+        "/images/wildlife/olive-ridley-turtle-lepidochelys-olivacea-3.jpg"
+      ]
+    },
+    {
+      "title": "Humpback Whale (Megaptera novaeangliae)",
+      "emoji": "🐋",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Costa Rica sees both northern and southern populations, extending the season."
+        },
+        {
+          "heading": "Behavior",
+          "content": "Breaching and complex songs during breeding off Osa and Marino Ballena."
+        },
+        {
+          "heading": "Conservation",
+          "content": "Vessel speed limits and approach distances reduce disturbance."
+        },
+        {
+          "heading": "Community",
+          "content": "Whale‑watching sustains coastal livelihoods and marine education."
+        }
+      ],
+      "images": [
+        "/images/wildlife/humpback-1.jpg",
+        "/images/wildlife/humpback-2.jpg",
+        "/images/wildlife/humpback-3.jpg",
+        "/images/wildlife/humpback-4.jpg"
+      ]
+    },
+    {
+      "title": "Whale Shark (Rhincodon typus)",
+      "emoji": "🦈",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "The largest fish on Earth—gentle filter feeder occasionally seen near offshore seamounts."
+        },
+        {
+          "heading": "Ecology",
+          "content": "Follows plankton blooms; often accompanied by remoras."
+        },
+        {
+          "heading": "Conservation",
+          "content": "Global declines from bycatch; marine protected areas and codes of conduct are essential."
+        },
+        {
+          "heading": "Diving Ethics",
+          "content": "No touching or chasing; keep horizontal distance and avoid flashes."
+        }
+      ],
+      "images": [
+        "/images/wildlife/whale-shark-1.jpg",
+        "/images/wildlife/whale-shark-2.jpg",
+        "/images/wildlife/whale-shark-3.jpg",
+        "/images/wildlife/whale-shark-4.jpg"
+      ]
+    },
+    {
+      "title": "Red Mangrove (Rhizophora mangle)",
+      "emoji": "🪵",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "Coastal tree with prop roots that stabilize shores and trap sediment."
+        },
+        {
+          "heading": "Ecology",
+          "content": "Nursery habitat for fish and crustaceans; filters pollutants and stores 'blue carbon'."
+        },
+        {
+          "heading": "Conservation",
+          "content": "Threatened by dredging and development; protected in Térraba‑Sierpe and other estuaries."
+        },
+        {
+          "heading": "Community",
+          "content": "Sustainable mangrove tours provide income and stewardship."
+        }
+      ],
+      "images": [
+        "/images/wildlife/red-mangrove-rhizophora-mangle-1.jpg",
+        "/images/wildlife/red-mangrove-rhizophora-mangle-2.jpg",
+        "/images/wildlife/red-mangrove-rhizophora-mangle-3.jpg"
+      ]
+    },
+    {
+      "title": "Guaria Morada Orchid (Guarianthe skinneri)",
+      "emoji": "🌸",
+      "sections": [
+        {
+          "heading": "Information",
+          "content": "National flower admired for purple blooms; symbolizes beauty and hope."
+        },
+        {
+          "heading": "Ecology",
+          "content": "Epiphyte that anchors on branches without parasitizing hosts."
+        },
+        {
+          "heading": "Conservation",
+          "content": "Illegal collection harms wild stocks; cultivation and gardens reduce pressure."
+        },
+        {
+          "heading": "Cultural Notes",
+          "content": "Gifted during celebrations and featured in school botany projects."
+        }
+      ],
+      "images": [
+        "/images/wildlife/guaria-morada-1.jpg",
+        "/images/wildlife/guaria-morada-2.jpg",
+        "/images/wildlife/guaria-morada-3.jpg",
+        "/images/wildlife/guaria-morada-4.jpg"
+      ]
+    }
+  ],
+  "gallery": [
+    "/images/wildlife/gallery-1.jpg",
+    "/images/wildlife/gallery-2.jpg",
+    "/images/wildlife/gallery-3.jpg",
+    "/images/wildlife/gallery-4.jpg",
+    "/images/wildlife/gallery-5.jpg",
+    "/images/wildlife/gallery-6.jpg",
+    "/images/wildlife/gallery-7.jpg",
+    "/images/wildlife/gallery-8.jpg"
+  ]
+}

@@ -69,3 +69,75 @@
   text-align: center;
   color: var(--muted);
 }
+
+/* --- Open Source block --- */
+.openSource {
+  margin-top: 26px;
+  padding: 22px;
+  border-radius: 16px;
+  text-align: center;
+  background: var(--bg);
+  box-shadow: var(--shadow-dark), var(--shadow-light);
+}
+
+.openSourceTitle {
+  margin: 0 0 10px;
+  font-size: 1.6rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  color: var(--text);
+}
+
+.openSourceDesc {
+  max-width: 820px;
+  margin: 0 auto 14px;
+  line-height: 1.6;
+  color: var(--muted);
+}
+
+.author {
+  font-weight: 700;
+  color: var(--text);
+  white-space: nowrap; /* keeps the full name tidy on one line when possible */
+}
+
+.githubButton {
+  display: inline-block;
+  margin: 8px 0 12px;
+  padding: 10px 18px;
+  border-radius: 12px;
+  font-weight: 700;
+  text-decoration: none;
+  color: #fff;
+  background: linear-gradient(90deg, var(--text), var(--accent));
+  box-shadow: var(--shadow-dark), var(--shadow-light);
+  transition: transform 0.12s ease, filter 0.2s ease;
+}
+
+.githubButton:hover {
+  transform: translateY(-1px);
+  filter: brightness(0.98);
+}
+
+.repoNote {
+  margin: 0;
+  font-size: 0.95rem;
+  color: var(--muted);
+  word-break: break-word;
+}
+
+.repoNote a {
+  color: var(--text);
+  text-decoration: underline;
+}
+
+/* Small screens polish */
+@media (max-width: 520px) {
+  .openSource {
+    padding: 18px;
+    border-radius: 14px;
+  }
+  .openSourceTitle {
+    font-size: 1.4rem;
+  }
+}
