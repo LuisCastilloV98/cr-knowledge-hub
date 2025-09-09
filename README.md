@@ -187,7 +187,6 @@ This guide explains **from zero** how to install the tools, run the site locally
      ```bash
      git clone https://github.com/LuisCastilloV98/cr-knowledge-hub.git
      ```
-     Replace `LuisCastilloV98` with the correct GitHub owner.
 
 2. **Enter the project folder**
    ```bash
