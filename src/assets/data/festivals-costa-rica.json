@@ -7,7 +7,7 @@
   "cardImage": "/images/festivals-costa-rica/card.jpg",
   "wideImage": "/images/festivals-costa-rica/wide.jpg",
   "items": [
-     {
+    {
       "title": "Festival del Mamón (Feria Nacional del Rambután)",
       "emoji": "🥭",
       "sections": [
@@ -17,11 +17,11 @@
         },
         {
           "heading": "Activities",
-          "content": "Traditional games for children, folk music performances, gastronomic contests focused on rambután, and artistic presentations celebrating local culture." 
+          "content": "Traditional games for children, folk music performances, gastronomic contests focused on rambután, and artistic presentations celebrating local culture."
         },
         {
           "heading": "Cultural Significance",
-          "content": "Highlights regional agricultural identity, supports local producers, and shares pride in tropical biodiversity." 
+          "content": "Highlights regional agricultural identity, supports local producers, and shares pride in tropical biodiversity."
         }
       ],
       "images": [
@@ -36,11 +36,11 @@
       "sections": [
         {
           "heading": "Overview",
-          "content": "On May 15, the Feast of San Isidro Labrador—or National Farmer’s Day—is observed in San Isidro de Heredia and Pérez Zeledón among other locales. The festivities include parades, masses, rides, games, fireworks, and traditional dances." 
+          "content": "On May 15, the Feast of San Isidro Labrador—or National Farmer’s Day—is observed in San Isidro de Heredia and Pérez Zeledón among other locales. The festivities include parades, masses, rides, games, fireworks, and traditional dances."
         },
         {
           "heading": "Cultural Significance",
-          "content": "A tribute to the agricultural laborer and rural life, with devotional and celebratory elements intertwined." 
+          "content": "A tribute to the agricultural laborer and rural life, with devotional and celebratory elements intertwined."
         }
       ],
       "images": [
@@ -55,11 +55,11 @@
       "sections": [
         {
           "heading": "Overview",
-          "content": "Every February in Pérez Zeledón, Expo Pérez Zeledón highlights agricultural exhibitions, cattle and horse shows, rodeos, orchid displays, beauty pageants, and local commerce." 
+          "content": "Every February in Pérez Zeledón, Expo Pérez Zeledón highlights agricultural exhibitions, cattle and horse shows, rodeos, orchid displays, beauty pageants, and local commerce."
         },
         {
           "heading": "Cultural Significance",
-          "content": "A showcase of regional agribusiness and community pride around the General Valley." 
+          "content": "A showcase of regional agribusiness and community pride around the General Valley."
         }
       ],
       "images": [
@@ -67,7 +67,7 @@
         "/images/festivals-costa-rica/perez-2.jpeg",
         "/images/festivals-costa-rica/perez-3.jpg"
       ]
-    },   
+    },
     {
       "title": "Fiestas de Palmares",
       "emoji": "🤠",
@@ -272,7 +272,7 @@
         },
         {
           "heading": "Cultural Significance",
-          "content": "Blends artistic expression with religious devotion and community collaboration." 
+          "content": "Blends artistic expression with religious devotion and community collaboration."
         }
       ],
       "images": [
@@ -484,5 +484,43 @@
     "/images/festivals-costa-rica/gallery-6.png",
     "/images/festivals-costa-rica/gallery-7.jpg",
     "/images/festivals-costa-rica/gallery-8.jpg"
+  ],
+  "references": [
+    {
+      "label": "SiCultura – Romería de la Virgen de los Ángeles (official cultural registry)",
+      "url": "https://si.cultura.cr/expresiones-y-manifestaciones/romeria-de-la-virgen-de-los-angeles"
+    },
+    {
+      "label": "Basilica of Our Lady of the Angels – Background (English)",
+      "url": "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_the_Angels,_Cartago"
+    },
+    {
+      "label": "Festival de la Luz – Official Facebook (Municipality of San José)",
+      "url": "https://www.facebook.com/festivaldelaluzcr/"
+    },
+    {
+      "label": "Municipality of San José – Festival de la Luz posts (official)",
+      "url": "https://www.facebook.com/munidesanjose/"
+    },
+    {
+      "label": "Travel Excellence – Festival de la Luz overview (EN)",
+      "url": "https://www.travelexcellence.com/latest-news/what-to-see-in-costa-rica-festival-de-la-luz-will-illuminate-the-streets-of-san-jose/"
+    },
+    {
+      "label": "SiCultura – El Juego de los Diablitos (Boruca) – intangible heritage",
+      "url": "https://si.cultura.cr/expresiones-y-manifestaciones/el-juego-de-los-diablitos"
+    },
+    {
+      "label": "SiCultura – Trayectoria del Juego de los Diablitos (declaration)",
+      "url": "https://si.cultura.cr/manifestaciones-culturales/trayectoria-del-juego-de-los-diablitos-de-boruca"
+    },
+    {
+      "label": "Go Visit Costa Rica – Limón Carnival overview",
+      "url": "https://www.govisitcostarica.co.cr/travelInfo/culture/limon-carnival.asp"
+    },
+    {
+      "label": "Tico Times – Festival de la Luz (context piece, EN)",
+      "url": "https://ticotimes.net/2020/12/24/throwback-the-festival-de-la-luz-in-san-jose"
+    }
   ]
 }

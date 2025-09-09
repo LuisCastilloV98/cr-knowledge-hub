@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 import { useParams, Link } from "react-router-dom";
-import type { TopicData } from "../types/types";
+import type { TopicData, TopicItem, TopicItemSection } from "../types/types";
 import { withBase } from "../utils/withBase";
 import useRevealOnScroll from "../hooks/useRevealOnScroll";
 import Carousel from "../components/Carousel";
@@ -41,11 +41,31 @@ function RevealImg({ src, alt }: { src: string; alt: string }) {
 const asArray = <T,>(v: unknown): T[] => (Array.isArray(v) ? (v as T[]) : []);
 const hasNonEmpty = (arr: unknown): boolean => Array.isArray(arr) && arr.length > 0;
 
+// Normalize references → accepts either strings or objects with {label?, url}
+type RefItem = { label?: string; url: string };
+const normalizeRefs = (v: unknown): RefItem[] => {
+  if (!Array.isArray(v)) return [];
+  const out: RefItem[] = [];
+  for (const it of v) {
+    if (typeof it === "string" && it.trim()) {
+      out.push({ url: it.trim() });
+    } else if (it && typeof it === "object") {
+      const url = (it as any).url;
+      const label = (it as any).label;
+      if (typeof url === "string" && url.trim()) {
+        out.push({ url: url.trim(), label: typeof label === "string" ? label.trim() : undefined });
+      }
+    }
+  }
+  return out;
+};
+
 export default function TopicDetail() {
   const { slug = "" } = useParams();
   const topic = getBySlug(slug);
 
   const gallery = useMemo(() => asArray<string>(topic?.gallery), [topic]);
+  const references = useMemo(() => normalizeRefs(topic?.references as unknown), [topic]);
 
   // Lightbox state
   const [lbOpen, setLbOpen] = useState(false);
@@ -67,6 +87,7 @@ export default function TopicDetail() {
       <Link className="btn" to="/">← Back</Link>
 
       <section style={{ marginTop: 16 }} className="neu-surface">
+        {/* Header image */}
         <img
           src={withBase(topic.wideImage)}
           alt={topic.title}
@@ -83,21 +104,24 @@ export default function TopicDetail() {
         />
 
         <div className={styles.body}>
+          {/* Title */}
           <h1 style={{ marginTop: 0 }}>
             {topic.emoji ? <span style={{ marginRight: 8 }}>{topic.emoji}</span> : null}
             {topic.title}
           </h1>
 
+          {/* Long description */}
           <p style={{ color: "var(--muted)", lineHeight: 1.65 }}>
             {topic.longDescription}
           </p>
 
+          {/* Highlights Section */}
           {hasNonEmpty(topic.items) && (
             <>
               <h2>Highlights</h2>
               <div className={styles.itemsGrid}>
-                {topic!.items!.map((raw: any, idx: number) => {
-                  const sections = asArray<{ heading: string; content: string }>(raw.sections);
+                {topic!.items!.map((raw: TopicItem, idx: number) => {
+                  const sections = asArray<TopicItemSection>((raw as any).sections);
                   const images = hasNonEmpty(raw.images)
                     ? asArray<string>(raw.images)
                     : raw.image
@@ -109,13 +133,13 @@ export default function TopicDetail() {
                   if (rich) {
                     return (
                       <article key={idx} className={`neu-surface ${styles.item}`}>
-                        {/* Title spans full width; on mobile it's first */}
+                        {/* Item title */}
                         <h3 className={styles.itemTitle}>
                           {raw.emoji ? <span style={{ marginRight: 6 }}>{raw.emoji}</span> : null}
                           {raw.title}
                         </h3>
 
-                        {/* Media: desktop right; mobile under title */}
+                        {/* Item media: carousel or single image */}
                         <div className={styles.itemMedia}>
                           {images.length > 1 ? (
                             <Carousel images={images} ariaLabel={`${raw.title} images`} />
@@ -136,7 +160,7 @@ export default function TopicDetail() {
                           ) : null}
                         </div>
 
-                        {/* Text/Sections */}
+                        {/* Item text and sections */}
                         <div className={styles.itemText}>
                           {sections.length > 0 ? (
                             <div style={{ display: "grid", gap: 12 }}>
@@ -155,7 +179,7 @@ export default function TopicDetail() {
                     );
                   }
 
-                  // Fallback simple list (no sections/images)
+                  // Fallback for simple items without sections/images
                   return (
                     <li key={idx} style={{ marginBottom: 12, listStyle: "disc inside" }}>
                       <strong>
@@ -181,32 +205,54 @@ export default function TopicDetail() {
             </>
           )}
 
+          {/* Gallery Section */}
           {gallery.length > 0 && (
             <>
-                <h2>Gallery</h2>
+              <h2>Gallery</h2>
 
-                <div className="gallery">
+              <div className="gallery">
                 {gallery.map((g, idx) => (
-                    <button
+                  <button
                     key={idx}
                     className="gallery-btn"
                     onClick={() => openAt(idx)}
                     aria-label={`Open image ${idx + 1}`}
                     style={{ padding: 0, border: 0, background: "transparent" }}
-                    >
+                  >
                     <RevealImg src={g} alt={`${topic.title} ${idx + 1}`} />
-                    </button>
+                  </button>
                 ))}
-                </div>
+              </div>
 
-                <LightboxViewer
+              <LightboxViewer
                 open={lbOpen}
                 index={lbIndex}
                 images={gallery}
                 onClose={close}
-                />
+              />
             </>
-            )}
+          )}
+
+          {/* References Section */}
+          {references.length > 0 && (
+            <>
+              <h2 style={{ marginTop: 24 }}>References</h2>
+              <ul style={{ display: "grid", gap: 8, paddingLeft: 18 }}>
+                {references.map((ref, idx) => (
+                  <li key={idx} style={{ lineHeight: 1.6 }}>
+                    <a
+                      href={ref.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{ textDecoration: "underline" }}
+                    >
+                      {ref.label ?? ref.url}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </>
+          )}
         </div>
       </section>
     </main>

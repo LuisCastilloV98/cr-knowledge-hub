@@ -744,5 +744,39 @@
     "/images/history/gallery-6.jpg",
     "/images/history/gallery-7.jpg",
     "/images/history/gallery-8.jpg"
+  ],
+  "references": [
+    {
+      "label": "National Museum of Costa Rica (Museo Nacional) — About",
+      "url": "https://www.museocostarica.go.cr/"
+    },
+    {
+      "label": "Pre-Columbian Gold Museum — Banco Central (English)",
+      "url": "https://museosdelbancocentral.org/eng/exhibiciones/museo-del-oro-precolombino/"
+    },
+    {
+      "label": "UNESCO — Precolumbian Chiefdom Settlements of Diquís",
+      "url": "https://whc.unesco.org/en/list/1453/"
+    },
+    {
+      "label": "SINAC — Guayabo National Monument",
+      "url": "https://www.sinac.go.cr/EN-US/ac/accvc/gnm/Pages/default.aspx"
+    },
+    {
+      "label": "Teatro Nacional de Costa Rica (Official)",
+      "url": "https://teatronacional.go.cr/"
+    },
+    {
+      "label": "Archivo Nacional de Costa Rica",
+      "url": "https://www.archivonacional.go.cr/"
+    },
+    {
+      "label": "Banco Central — Cultural Heritage to Share",
+      "url": "https://museosdelbancocentral.org/eng/"
+    },
+    {
+      "label": "UNESCO — Area de Conservación Guanacaste (World Heritage)",
+      "url": "https://whc.unesco.org/en/list/928/"
+    }
   ]
 }

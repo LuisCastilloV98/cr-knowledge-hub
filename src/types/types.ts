@@ -11,6 +11,8 @@ export interface TopicItem {
   emoji?: string; 
 }
 
+export type TopicReference = string | { label?: string; url: string };
+
 export interface TopicData {
   slug: string;
   title: string;
@@ -20,5 +22,6 @@ export interface TopicData {
   wideImage: string;
   gallery?: string[];
   items?: TopicItem[];
+  references?: TopicReference[];
   emoji?: string;
 }

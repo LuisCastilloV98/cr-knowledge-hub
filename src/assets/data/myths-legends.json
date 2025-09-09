@@ -398,7 +398,7 @@
         "/images/myths-legends/tulevieja-2.jpg",
         "/images/myths-legends/tulevieja-3.webp"
       ]
-    }    
+    }
   ],
   "gallery": [
     "/images/myths-legends/gallery-1.jpg",
@@ -409,5 +409,31 @@
     "/images/myths-legends/gallery-6.jpg",
     "/images/myths-legends/gallery-7.webp",
     "/images/myths-legends/gallery-8.jpg"
+  ],
+  "references": [
+    {
+      "label": "Wikipedia – Tulevieja (ES; CR–Panama folk legend)",
+      "url": "https://es.wikipedia.org/wiki/Tulevieja"
+    },
+    {
+      "label": "SiCultura – History of Costa Rican Mascarada (context for legends in masks, ES)",
+      "url": "https://si.cultura.cr/manifestaciones-culturales/historia-de-la-mascarada-tradicional-costarricense"
+    },
+    {
+      "label": "SiCultura – Día de la Mascarada Tradicional (ES)",
+      "url": "https://si.cultura.cr/manifestaciones-culturales/dia-de-la-mascarada-tradicional"
+    },
+    {
+      "label": "https://es.wikipedia.org/wiki/Leyendas_de_Costa_Rica",
+      "url": "https://es.wikipedia.org/wiki/Leyendas_de_Costa_Rica"
+    },
+    {
+      "label": "Leyendas y relatos de Costa Rica",
+      "url": "https://www.sanjosecostarica.org/sobre-san-jose-costa-rica/cultura-y-folklore/leyendas-de-costa-rica/"
+    },
+    {
+      "label": "Leyendas de Costa Rica",
+      "url": "https://www.mep.go.cr/educatico/leyendas-de-costa-rica"
+    }
   ]
 }

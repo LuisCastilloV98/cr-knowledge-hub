@@ -82,7 +82,7 @@
       ],
       "images": [
         "/images/typical-dishes/rice-chicken.png",
-        "/images/typical-dishes/rice-chicken-2.jpg"	
+        "/images/typical-dishes/rice-chicken-2.jpg"
       ]
     },
     {
@@ -108,7 +108,7 @@
       ],
       "images": [
         "/images/typical-dishes/olla-de-carne-1.webp",
-        "/images/typical-dishes/olla-de-carne-2.webp"	
+        "/images/typical-dishes/olla-de-carne-2.webp"
       ]
     },
     {
@@ -186,7 +186,7 @@
       ],
       "images": [
         "/images/typical-dishes/tamales-1.webp",
-        "/images/typical-dishes/tamales-2.jpg"        
+        "/images/typical-dishes/tamales-2.jpg"
       ]
     },
     {
@@ -212,7 +212,7 @@
       ],
       "images": [
         "/images/typical-dishes/chifrijo.jpg",
-        "/images/typical-dishes/chifrijo-2.avif"   
+        "/images/typical-dishes/chifrijo-2.avif"
       ]
     },
     {
@@ -238,7 +238,7 @@
       ],
       "images": [
         "/images/typical-dishes/ceviche-1.jpg",
-        "/images/typical-dishes/ceviche-2.jpg"   
+        "/images/typical-dishes/ceviche-2.jpg"
       ]
     },
     {
@@ -264,7 +264,7 @@
       ],
       "images": [
         "/images/typical-dishes/empanadas.jpg",
-        "/images/typical-dishes/empanadas-2.jpg"   
+        "/images/typical-dishes/empanadas-2.jpg"
       ]
     },
     {
@@ -420,23 +420,56 @@
           "content": "Enjoy a freshly brewed cup or visit a plantation for a tasting."
         }
       ],
-      "images": [        
+      "images": [
         "/images/typical-dishes/coffe.webp",
         "/images/typical-dishes/coffe-2.jpg",
         "/images/typical-dishes/coffe-3.jpg",
         "/images/typical-dishes/coffe-4.webp"
-     ]
+      ]
     }
   ],
   "gallery": [
-     "/images/typical-dishes/gallery-1.webp",
-     "/images/typical-dishes/gallery-2.webp",
-     "/images/typical-dishes/gallery-3.jpg",
-     "/images/typical-dishes/gallery-4.webp",
-     "/images/typical-dishes/gallery-5.webp",
-     "/images/typical-dishes/gallery-6.jpg",
-     "/images/typical-dishes/gallery-7.jpg",
-     "/images/typical-dishes/gallery-8.jpg"
-
+    "/images/typical-dishes/gallery-1.webp",
+    "/images/typical-dishes/gallery-2.webp",
+    "/images/typical-dishes/gallery-3.jpg",
+    "/images/typical-dishes/gallery-4.webp",
+    "/images/typical-dishes/gallery-5.webp",
+    "/images/typical-dishes/gallery-6.jpg",
+    "/images/typical-dishes/gallery-7.jpg",
+    "/images/typical-dishes/gallery-8.jpg"
+  ],
+  "references": [
+    {
+      "label": "Visit Costa Rica — Traditional Costa Rican Cuisine",
+      "url": "https://www.visitcostarica.com/things-to-do/culture/traditional-costa-rican-cuisine"
+    },
+    {
+      "label": "Visit Costa Rica — Press: Gallo Pinto (National Dish)",
+      "url": "https://www.visitcostarica.com/press/press-releases/culinary/gallo-pinto"
+    },
+    {
+      "label": "Visit Costa Rica — Press: Culinary Adventure",
+      "url": "https://www.visitcostarica.com/press/press-releases/culinary/culinary-adventure"
+    },
+    {
+      "label": "Visit Costa Rica — Restaurants (Cuisine Típica)",
+      "url": "https://www.visitcostarica.com/planning-your-trip/restaurants/all"
+    },
+    {
+      "label": "TasteAtlas — Top Costa Rican Dishes",
+      "url": "https://www.tasteatlas.com/best-rated-dishes-in-costa-rica"
+    },
+    {
+      "label": "TasteAtlas — Costa Rica Food Atlas",
+      "url": "https://www.tasteatlas.com/costa-rica"
+    },
+    {
+      "label": "Wikipedia — Costa Rican Cuisine",
+      "url": "https://en.wikipedia.org/wiki/Costa_Rican_cuisine"
+    },
+    {
+      "label": "Visit Costa Rica — Blog: Caribbean Recipes",
+      "url": "https://www.visitcostarica.com/blog/3-caribbean-recipes-make-home"
+    }
   ]
 }

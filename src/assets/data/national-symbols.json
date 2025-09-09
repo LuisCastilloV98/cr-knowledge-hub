@@ -94,7 +94,7 @@
       ],
       "images": [
         "/images/national-symbols/guaria-1.jpg",
-         "/images/national-symbols/guaria-2.jpg"
+        "/images/national-symbols/guaria-2.jpg"
       ]
     },
     {
@@ -371,5 +371,39 @@
     "/images/national-symbols/gallery-6.jpg",
     "/images/national-symbols/gallery-7.webp",
     "/images/national-symbols/gallery-8.jpg"
+  ],
+  "references": [
+    {
+      "label": "Imprenta Nacional — Símbolos Nacionales (PDF)",
+      "url": "https://www.imprentanacional.go.cr/editorialdigital/libros/historiaygeografia/simbolos_nacionales_2018_edincr.pdf"
+    },
+    {
+      "label": "MEP — Símbolos Nacionales (PDF)",
+      "url": "https://dresjo.mep.go.cr/sites/all/files/dresjo_mep_go_cr/adjuntos/simbolos_nacionales_cr.pdf"
+    },
+    {
+      "label": "Embassy of Costa Rica (UK) — National Symbols",
+      "url": "https://www.costaricanembassy.co.uk/en/espanol-simbolos-nacionales/"
+    },
+    {
+      "label": "Embassy of Costa Rica (UAE) — National Symbols",
+      "url": "https://embcr-uae.org/nationalsymbols/"
+    },
+    {
+      "label": "Tico Times — Costa Rica’s National Symbols",
+      "url": "https://ticotimes.net/2021/09/09/costa-ricas-national-symbols"
+    },
+    {
+      "label": "Wikipedia — National Symbols of Costa Rica",
+      "url": "https://en.wikipedia.org/wiki/S%C3%ADmbolos_patrios_de_Costa_Rica"
+    },
+    {
+      "label": "Find My Costa Rica — National Symbols Guide",
+      "url": "https://www.findmycostarica.com/blog/costa-rican-national-symbols/"
+    },
+    {
+      "label": "Atípico Costa Rica — National Symbols (EN)",
+      "url": "https://www.atipico-costarica.com/symboles-nationaux?lang=en"
+    }
   ]
 }

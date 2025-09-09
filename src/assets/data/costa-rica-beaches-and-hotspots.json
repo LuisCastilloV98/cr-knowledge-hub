@@ -745,5 +745,43 @@
     "/images/places/gallery-6.webp",
     "/images/places/gallery-7.webp",
     "/images/places/gallery-8.jpg"
+  ],
+  "references": [
+    {
+      "label": "Visit Costa Rica — Beaches & Relaxation",
+      "url": "https://www.visitcostarica.com/things-to-do/beaches-and-relaxation"
+    },
+    {
+      "label": "Visit Costa Rica — Surfing",
+      "url": "https://www.visitcostarica.com/things-to-do/adventure/surfing"
+    },
+    {
+      "label": "Visit Costa Rica — Central Pacific Top 10",
+      "url": "https://www.visitcostarica.com/where-to-go/central-pacific/top-10-in-central-pacific"
+    },
+    {
+      "label": "Visit Costa Rica — Caribbean Region",
+      "url": "https://www.visitcostarica.com/where-to-go/caribbean"
+    },
+    {
+      "label": "Visit Costa Rica — Guanacaste Region",
+      "url": "https://www.visitcostarica.com/where-to-go/guanacaste"
+    },
+    {
+      "label": "SINAC — Manuel Antonio National Park",
+      "url": "https://www.sinac.go.cr/EN-US/ac/acopac/pnma/pages/default.aspx"
+    },
+    {
+      "label": "SINAC — Cahuita National Park",
+      "url": "https://www.sinac.go.cr/EN-US/ac/aclac/pnc/Pages/default.aspx"
+    },
+    {
+      "label": "SINAC — Marino Ballena National Park",
+      "url": "https://www.sinac.go.cr/EN-US/ac/acosa/pnmb/Pages/default.aspx"
+    },
+    {
+      "label": "SINAC — 360° Photos (Manuel Antonio, Poás, Tortuguero)",
+      "url": "https://www.sinac.go.cr/EN-US/fotos360"
+    }
   ]
 }

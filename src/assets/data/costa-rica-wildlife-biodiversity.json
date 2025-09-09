@@ -767,5 +767,43 @@
     "/images/wildlife/gallery-6.jpg",
     "/images/wildlife/gallery-7.jpg",
     "/images/wildlife/gallery-8.jpg"
+  ],
+  "references": [
+    {
+      "label": "Organization for Tropical Studies (OTS) — La Selva Station",
+      "url": "https://tropicalstudies.org/portfolio/natural-history-visitors-la-selva/"
+    },
+    {
+      "label": "Organization for Tropical Studies (OTS) — Main Site",
+      "url": "https://tropicalstudies.org/"
+    },
+    {
+      "label": "Monteverde Cloud Forest Biological Reserve — Official",
+      "url": "https://cloudforestmonteverde.com/"
+    },
+    {
+      "label": "Sea Turtle Conservancy — Tortuguero Program",
+      "url": "https://conserveturtles.org/project/stc-programs-research-tortuguero-costa-rica/"
+    },
+    {
+      "label": "Osa Conservation — Official Site",
+      "url": "https://osaconservation.org/"
+    },
+    {
+      "label": "Costa Rica Bird Observatories (CRBO)",
+      "url": "https://costaricabird.org/"
+    },
+    {
+      "label": "Visit Costa Rica — Birdwatching",
+      "url": "https://www.visitcostarica.com/things-to-do/birdwatching"
+    },
+    {
+      "label": "International Climate Initiative — National Bio-Corridor Programme (CR)",
+      "url": "https://www.international-climate-initiative.com/en/project/implementation-of-the-national-bio-corridor-programme-pncb-in-the-context-of-the-national-biodiversity-strategy-of-costa-rica-13-iv-035-cri-g-pncb/"
+    },
+    {
+      "label": "BIOFIN Costa Rica — Biodiversity Strategy Update",
+      "url": "https://biofin.cr/en/costa-rica-presents-advances-challenges-and-opportunities-regarding-its-state-of-biodiversity/"
+    }
   ]
 }

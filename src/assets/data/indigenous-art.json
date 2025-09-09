@@ -210,5 +210,39 @@
     "/images/indigenous-art/gallery-6.jpg",
     "/images/indigenous-art/gallery-7.webp",
     "/images/indigenous-art/gallery-8.jpg"
+  ],
+  "references": [
+    {
+      "label": "Museos del Banco Central – Official site (EN)",
+      "url": "https://museosdelbancocentral.org/eng/"
+    },
+    {
+      "label": "Pre-Columbian Gold Museum – Exhibition page (EN, official)",
+      "url": "https://museosdelbancocentral.org/eng/exhibiciones/museo-del-oro-precolombino/"
+    },
+    {
+      "label": "Visit Costa Rica – Museums (Official Tourism Board, EN)",
+      "url": "https://www.visitcostarica.com/things-to-do/culture/museums"
+    },
+    {
+      "label": "National Museum of Costa Rica – General Info (EN PDF)",
+      "url": "https://www.museocostarica.go.cr/wp-content/uploads/visitar/folletos/mncr_ingl_oct2022.pdf"
+    },
+    {
+      "label": "Pre-Columbian Gold Museum – Background (EN)",
+      "url": "https://en.wikipedia.org/wiki/Pre-Columbian_Gold_Museum"
+    },
+    {
+      "label": "Jade Museum – Background (EN)",
+      "url": "https://en.wikipedia.org/wiki/Museo_del_Jade"
+    },
+    {
+      "label": "Frommer’s – Jade Museum overview (EN)",
+      "url": "https://www.frommers.com/destinations/san-jose-costa-rica/attractions/museo-de-jade-marco-fidel-tristn-jade-museum/"
+    },
+    {
+      "label": "ICT News – Jade Museum Sustainability Certification (ES, official)",
+      "url": "https://www.ict.go.cr/es/noticias-principales/1904-museo-del-jade-y-de-la-cultura-precolombina-recibe-certificado-de-sostenibilidad-turistica.html"
+    }
   ]
 }

@@ -689,5 +689,27 @@
     "/images/national-parks/gallery-6.avif",
     "/images/national-parks/gallery-7.jpg",
     "/images/national-parks/gallery-8.jpg"
+  ],
+  "references": [
+    {
+      "label": "SINAC — Official Site",
+      "url": "https://sinac.go.cr/EN-US/Pages/default.aspx"
+    },
+    {
+      "label": "SINAC — National Parks (Overview)",
+      "url": "https://www.sinac.go.cr/EN-US/turismo/Pages/parquesnacionales.aspx"
+    },
+    {
+      "label": "SINAC — Tortuguero National Park",
+      "url": "https://www.sinac.go.cr/EN-US/ac/acto/pnt/Pages/default.aspx"
+    },
+    {
+      "label": "SINAC — Rincón de la Vieja National Park",
+      "url": "https://www.sinac.go.cr/EN-US/ac/acg/pnrv/Pages/default.aspx"
+    },
+    {
+      "label": "UNESCO — Area de Conservación Guanacaste (World Heritage)",
+      "url": "https://whc.unesco.org/en/list/928/"
+    }
   ]
 }
